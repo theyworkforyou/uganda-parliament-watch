@@ -1,0 +1,24 @@
+{% assign area = membership.area %}
+{% assign organization = membership.organization %}
+{% assign party = membership.party %}
+{% assign person = membership.person %}
+
+<li class="media">
+  <div class="media-left">
+    <a href="{{ person.url | prepend: site.baseurl }}">
+      {% if person.image %}
+      <img src="{{ person.image }}" alt="{{ person.name }}" width="100">
+      {% endif %}
+    </a>
+  </div>
+
+  <div class="media-body">
+    <h4 class="media-heading"><a href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a></h4>
+    <dl>
+      <dt>Constituency</dt>
+      <dd><a class="listing__area" href="{{ area.url | prepend: site.baseurl }}">{{ area.name }}</a></dd>
+      <dt>Party</dt>
+      <dd><a class="listing__party" href="{{ party.url | prepend: site.baseurl }}">{{ party.name }}</a></dd>
+    </dl>
+  </div>
+</li>
