@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign area = page %}
+
+<div class="page-header">
+  <h2>{{ area.name }} <small>Constituency</small></h2>
+</div>
+
+<div class="profile-info">
+  <div class="sidebar">
+    {% include social.html %}
+  </div>
+</div>
+
+<div class="large-container">
+  {% assign politicians = area.memberships | group_by: "person_id" %}
+
+  <h3>Politicians Representing {{ area.name }}</h3>
+
+  <ul class="media-list">
+    {% for politician in politicians %}
+      {% assign membership = politician.items | first %}
+      {% include membership_item.html %}
+    {% endfor %}
+  </ul>
+
+</div>

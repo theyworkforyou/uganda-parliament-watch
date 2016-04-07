@@ -13,9 +13,28 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 exclude: [Gemfile, Gemfile.lock, README.md, vendor]
 
 # Build settings
 markdown: kramdown
+
+# TODO: Enable once the site has gone live
+# google_analytics:
+#   tracking_code: UA-660910-14
+
+everypolitician:
+  sources:
+    parliament: https://github.com/everypolitician/everypolitician-data/raw/uganda-spreadsheet/data/Uganda/Parliament/ep-popolo-v1.0.json
+
+collections:
+  # Assembly
+  parliament_people:
+    output: true
+    permalink: '/mps/:path/'
+  parliament_organizations:
+    output: true
+    permalink: '/organizations/:path/'
+  parliament_areas:
+    output: true
+    permalink: '/areas/:path/'

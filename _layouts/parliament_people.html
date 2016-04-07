@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+{% assign person = page %}
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="page-header">
+    <h1 itemprop="name">{{ person.name }}</h1>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3">
+      <div class="profile-pic">
+        {% if person.image %}
+        <img itemprop="image" src="{{ person.image }}" alt=" Photo of {{ person.name }}" width="100">
+        {% endif %}
+      </div>
+
+      <div class="constituency-party">
+
+        {% for membership in person.memberships reversed %}
+        {% assign party = membership.party %}
+        {% assign area = membership.area %}
+        {% assign legislative_period = membership.legislative_period %}
+
+        <dl>
+          <dt>Legislative period</dt>
+          <dd>{{ legislative_period.name }}</dt>
+
+          {% if membership.start_date or legislative_period.start_date %}
+          <dt>Start date</dt>
+          <dd>
+          {% if membership.start_date %}
+          {{ membership.start_date | date_to_string }}
+          {% else %}
+          {{ legislative_period.start_date | date_to_string }}
+          {% endif %}
+          </dd>
+          {% endif %}
+
+          {% if membership.end_date or legislative_period.end_date %}
+          <dt>End date</dt>
+          <dd>
+          {% if membership.end_date %}
+          {{ membership.end_date | date_to_string }}
+          {% else %}
+          {{ legislative_period.end_date | date_to_string }}
+          {% endif %}
+          </dd>
+          {% endif %}
+
+          {% if area %}
+          <dt>Constituency</dt>
+          <dd><a href="{{ area.url | prepend: site.baseurl }}">{{ area.name }}</a></dd>
+          {% endif %}
+
+          <dt>Party</dt>
+          <dd><a href="{{ party.url | prepend: site.baseurl }}" class="party-membership party-membership--political-party">{{ party.name }}</a></dd>
+        </dl>
+        {% endfor %}
+
+        {% include social.html comments=true %}
+      </div>
+    </div>
+
+    <div class="col-md-9">
+      <div class="profile-info">
+        <dl class="dl-horizontal">
+          {% if person.email %}
+          <dt>Email</dt>
+          <dd><a itemprop="email" title="Send an email to {{ person.name }}" href="mailto:{{ person.email }}">{{ person.email }}</a></dt>
+          {% endif %}
+
+          {% if person.birth_date %}
+          <dt>Born</dt>
+          <dd itemprop="birthDate">{{ person.birth_date | date_to_long_string }}</dt>
+          {% endif %}
+
+          {% if person.death_date %}
+          <dt>Died</dt>
+          <dd itemprop="deathDate">{{ person.death_date | date_to_long_string }}</dt>
+          {% endif %}
+
+          {% if person.gender %}
+          <dt>Gender</dt>
+          <dd class="text-capitalize" itemprop="gender">{{ person.gender }}</dt>
+          {% endif %}
+
+          {% for contact in person.contact_details %}
+          <dt class="text-capitalize">{{ contact.type }}</dt>
+          <dd>{{ contact.value }}</dd>
+          {% endfor %}
+
+        </dl>
+
+        {% include comments.html %}
+
+      </div>
+    </div>
+  </div>
+</div>
