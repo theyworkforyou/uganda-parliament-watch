@@ -1,0 +1,12 @@
+language: ruby
+cache: bundler
+rvm:
+- 2.3.0
+script: "./_bin/deploy"
+branches:
+  only:
+    - master
+env:
+  global:
+    - GITHUB_REPO_SLUG=theyworkforyou/uganda-parliament-watch
+    - secure: "DXqFX4XxaaW4twYkP7x1jFmw4tRRMK1J4X99lgWfmghYZAyRvMYgVQ5H3tk87cxOTuos7JKPsOUC4OkuP9dGqKuSeELr4LB4CJYKxSe2YJq31G7nvprczE/Bt8vspS5zmzoeDPLa0X7n1LTRfXTch0Wo/bg5pRaxV8rDk1hr89B7IH/TKdTRbqNa19p0IcgJkJXAhUN6AG8KmsVzeHgd+2dgAFFwAna0LPCU+PdBOc5BFzvFhsf7eg3x4o+EZDmm45WKn7kOa+KaUNKy2G6Jb+YKZ9tXjERwdo2A30OThH+tldAg5SmRxP3JFVpmjjo30Se7cp+KpSd66zZ7WNSpr6zRO7E9PrlaQp+jTCVMbDsYN5Cl2T+Ydv28RXNcYMbO92UpsjqNsmg/X6wRmohd6gfC1TWf8yKSmT0Go46V7PK0RXgtRTQf2YdpMgxwgPlYcQdj09fCoPoXv0HwvQHhGv1XYo7VFHZe7kRC1Fno0hGg2rkpNKoHpoFOieN+KP82ATschCVhDzTrBoxKse1RUMRr+KBsfk/fVn++UiIlYteZAZk6WzdCRNDxpeHRg5AdmbrzlTDW5ouJO0w213aAMIbMFA2BZydTDW/SQxIpPtaZXTB+uK83qC/KF0t/TxqEnjEs+igdOOHXrZUMJn5DmXDhOgIARaalquDpumpY5ns="

@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+set -e # exit with nonzero exit code if anything fails
+
+build_and_deploy_jekyll_site() {
+  tmpdir=$(mktemp -d 2>/dev/null || mktemp -d -t 'mytmpdir')
+  github_url="https://${GITHUB_ACCESS_TOKEN}@github.com/${GITHUB_REPO_SLUG}"
+
+  git clone --quiet --branch=gh-pages "$github_url" "${tmpdir}/gh-pages" > /dev/null 2>&1
+
+  # Remove compass generated css
+  rm -rf "${tmpdir}/gh-pages/css"
+
+  # Build the jekyll site
+  JEKYLL_ENV=production bundle exec jekyll build --destination "${tmpdir}/gh-pages" --trace
+
+  cd "$tmpdir/gh-pages"
+
+  echo "WARNING: This branch is built automatically. Any changes on this branch will be lost. Please make changes on the master branch." > README
+
+  git config user.name "everypoliticianbot"
+  git config user.email "team@everypolitician.org"
+  git add --all .
+  git commit -m "Deploy to GitHub Pages"
+
+  # We redirect any output to /dev/null to hide any sensitive credential data
+  # that might otherwise be exposed.
+  git push --force --quiet "$github_url" gh-pages > /dev/null 2>&1
+}
+
+main() {
+  if [[ "$TRAVIS_PULL_REQUEST" == "false" ]] && [[ "$TRAVIS_BRANCH" == "master" ]] && [[ "$TRAVIS_REPO_SLUG" == "$GITHUB_REPO_SLUG" ]]; then
+    build_and_deploy_jekyll_site
+  fi
+}
+
+main
+
