@@ -4,8 +4,20 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
-{% if page.current_membership %}
-<p>Current MP: <a href="{{ page.current_membership.person.url | prepend: site.baseurl }}">{{ page.current_membership.person.name }}</a> ({{ page.current_membership.party.name }})</p>
+{% if page.current_memberships %}
+  {% if page.current_memberships.size == 1 %}
+  {% assign current_membership = page.current_memberships | first %}
+    <p>Current MP: <a href="{{ current_membership.person.url | prepend: site.baseurl }}">{{ current_membership.person.name }}</a> ({{ current_membership.party.name }})</p>
+  {% else %}
+    <h3>Current MPs</h3>
+    {% for membership in page.current_memberships %}
+    <p>
+      <a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a>
+      ({{ membership.party.name }})
+      {{ membership.start_date }} {% if membership.start_date or membership.end_date %}-{% endif %} {{ membership.end_date }}
+    </p>
+    {% endfor %}
+  {% endif %}
 {% else %}
 <p>No known current MP.</p>
 {% endif %}
