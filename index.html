@@ -6,4 +6,12 @@ layout: default
 
   <h1 class="page-heading">{{ site.title }}</h1>
 
+  <div class="terms">
+    {% for term in site.events %}
+      <div class="term">
+        <a href="{{ term.url }}">{{ term.name }}</a>
+      </div>
+    {% endfor %}
+  </div>
+
 </div>
