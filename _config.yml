@@ -39,3 +39,8 @@ collections_to_search:
   - people
   - areas
   - events
+
+prose:
+  siteurl: https://theyworkforyou.github.io/uganda-parliament-watch
+  relativeLinks: https://theyworkforyou.github.io/uganda-parliament-watch/links.jsonp
+  media: media_root
