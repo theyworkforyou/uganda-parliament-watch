@@ -1,4 +1,4 @@
-# PMO Site
+# Parliament Watch Uganda
 
 This provides a basic starting point for creating a new PMO site.
 
