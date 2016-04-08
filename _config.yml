@@ -20,10 +20,6 @@ exclude: [Gemfile, Gemfile.lock, README.md, vendor]
 # Build settings
 markdown: kramdown
 
-everypolitician:
-  sources:
-    - https://github.com/everypolitician/everypolitician-data/raw/uganda-spreadsheet/data/Uganda/Parliament/ep-popolo-v1.0.json
-
 collections:
   people:
     output: true
