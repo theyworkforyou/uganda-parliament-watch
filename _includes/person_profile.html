@@ -1,0 +1,48 @@
+<div class="row">
+  <div class="col-md-3">
+    <div class="profile-pic">
+      {% if person.image %}
+      <img itemprop="image" src="{{ person.image }}" alt=" Photo of {{ person.name }}" width="100">
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="col-md-9">
+    <div class="profile-info">
+      <dl class="dl-horizontal">
+        {% if person.email %}
+        <dt>Email</dt>
+        <dd><a itemprop="email" title="Send an email to {{ person.name }}" href="mailto:{{ person.email }}">{{ person.email }}</a></dt>
+        {% endif %}
+
+        {% if person.birth_date %}
+        <dt>Born</dt>
+        <dd itemprop="birthDate">{{ person.birth_date | date_to_long_string }}</dt>
+        {% endif %}
+
+        {% if person.death_date %}
+        <dt>Died</dt>
+        <dd itemprop="deathDate">{{ person.death_date | date_to_long_string }}</dt>
+        {% endif %}
+
+        {% if person.gender %}
+        <dt>Gender</dt>
+        <dd class="text-capitalize" itemprop="gender">{{ person.gender }}</dt>
+        {% endif %}
+
+        {% for contact in person.contact_details %}
+        {% if contact.type == 'email' %}{% continue %}{% endif %}
+        <dt class="text-capitalize">{{ contact.type }}</dt>
+        <dd>{{ contact.value }}</dd>
+        {% endfor %}
+
+        {% for link in person.links %}
+        <dt>{{ link.note }}</dt>
+        <dd><a href="{{ link.url }}">{{ link.url }}</a></dd>
+        {% endfor %}
+
+      </dl>
+
+    </div>
+  </div>
+</div>

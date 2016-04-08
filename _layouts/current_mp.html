@@ -2,6 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.name }}</h1>
+{% assign person = page %}
 
-<p>Current MP for {{ page.current_membership.area.name }}. Party: {{ page.current_membership.party.name }}.</p>
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="page-header">
+    <h1 itemprop="name">{{ person.name }}</h1>
+    <p>Current MP for {{ person.current_membership.area.name }}. Party: {{ person.current_membership.party.name }}.</p>
+  </div>
+
+  {% include person_profile.html %}
+</div>
