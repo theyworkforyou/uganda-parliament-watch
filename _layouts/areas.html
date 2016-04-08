@@ -10,12 +10,16 @@ layout: default
 <p>No known current MP.</p>
 {% endif %}
 
+{% comment %}TODO: Check which direction this sorts in{% endcomment %}
+{% assign historic_memberships = page.historic_memberships | sort: 'end_date' %}
+
 <h3>Former MPs</h3>
-<ul>
-  {% for membership in page.historic_memberships %}
-  <li>
+<div class="historic-mps">
+  {% for membership in historic_memberships %}
+  <p>
+    {{ membership.legislative_period.name }}
     <a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a>
-    Party: {{ membership.party.name }}
+    ({{ membership.party.name }})
     {% if membership.start_date %}
     {{ membership.start_date }}
     {% else %}
@@ -27,8 +31,8 @@ layout: default
     {% else %}
     {{ membership.legislative_period.end_date }}
     {% endif %}
-  </li>
+  </p>
   {% else %}
-  <li>No known former MPs.</li>
+  <p>No known former MPs.</p>
   {% endfor %}
-</ul>
+</div>
