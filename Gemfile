@@ -8,4 +8,5 @@ group :jekyll_plugins do
   # @see https://github.com/theyworkforyou?query=jekyll
   gem 'jekyll-everypolitician'
   gem 'jekyll-search', git: 'https://github.com/theyworkforyou/jekyll-search', branch: 'handle-baseurl'
+  gem 'jekyll-facebook_comments'
 end

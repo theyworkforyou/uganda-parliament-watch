@@ -23,6 +23,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-everypolitician (0.7.0)
       jekyll (>= 3)
+    jekyll-facebook_comments (0.1.0)
+      liquid (>= 3)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.3.1)
@@ -52,6 +54,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.1)
   jekyll-everypolitician
+  jekyll-facebook_comments
   jekyll-search!
   pry
 
