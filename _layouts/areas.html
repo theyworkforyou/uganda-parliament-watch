@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
-{% if page.current_memberships %}
+{% if page.current_memberships.size != 0 %}
   {% if page.current_memberships.size == 1 %}
   {% assign current_membership = page.current_memberships | first %}
     <p>Current MP: <a href="{{ current_membership.person.url | prepend: site.baseurl }}">{{ current_membership.person.name }}</a> ({{ current_membership.party.name }})</p>
