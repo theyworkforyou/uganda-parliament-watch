@@ -9,7 +9,7 @@ layout: default
   <div class="terms">
     {% for term in site.events %}
       <div class="term">
-        <a href="{{ term.url }}">{{ term.name }}</a>
+        <a href="{{ term.url | prepend: site.baseurl }}">{{ term.name }}</a>
       </div>
     {% endfor %}
   </div>

@@ -6,6 +6,6 @@ layout: default
 
 <ul>
   {% for membership in page.memberships %}
-  <li><a href="{{ membership.person.url }}">{{ membership.person.name }}</a></li>
+  <li><a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a></li>
   {% endfor %}
 </ul>
