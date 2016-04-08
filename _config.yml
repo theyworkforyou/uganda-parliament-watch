@@ -27,7 +27,7 @@ everypolitician:
 collections:
   people:
     output: true
-    permalink: '/mps/:path/'
+    permalink: '/mp/:path/'
   events:
     output: true
-    permalink: '/terms/:path/'
+    permalink: '/term/:path/'
