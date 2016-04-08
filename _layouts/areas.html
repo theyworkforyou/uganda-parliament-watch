@@ -20,17 +20,7 @@ layout: default
     {{ membership.legislative_period.name }}
     <a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a>
     ({{ membership.party.name }})
-    {% if membership.start_date %}
-    {{ membership.start_date }}
-    {% else %}
-    {{ membership.legislative_period.start_date }}
-    {% endif %}
-    -
-    {% if membership.end_date %}
-    {{ membership.end_date }}
-    {% else %}
-    {{ membership.legislative_period.end_date }}
-    {% endif %}
+    {{ membership.start_date }} {% if membership.start_date or membership.end_date %}-{% endif %} {{ membership.end_date }}
   </p>
   {% else %}
   <p>No known former MPs.</p>
