@@ -1,9 +1,11 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
+  <div>
+    {% markdown footer_content.md %}
+  </div>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
+  <div>
+    {% markdown footer_disclaimer.md %}
   </div>
 
 </footer>
