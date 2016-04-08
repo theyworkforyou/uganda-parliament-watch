@@ -37,6 +37,5 @@ collections:
 
 collections_to_search:
   - people
-  - organizations
   - areas
-  - posts
+  - events
