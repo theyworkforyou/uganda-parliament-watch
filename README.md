@@ -14,7 +14,7 @@ Clone the repository from GitHub and then install the dependencies with bundler:
 
 Once you've installed the code you can start a server using jekyll
 
-    $ bundle exec jekyll serve -w
+    $ bundle exec jekyll serve -w --baseurl=''
 
 This will start a webserver running at <http://localhost:4000>.
 
