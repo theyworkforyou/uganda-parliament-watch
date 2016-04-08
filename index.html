@@ -7,10 +7,20 @@ layout: default
   <h1 class="page-heading">{{ site.title }}</h1>
 
   <div class="terms">
+    <h2>Terms</h2>
     {% for term in site.events %}
       <div class="term">
         <a href="{{ term.url | prepend: site.baseurl }}">{{ term.name }}</a>
       </div>
+    {% endfor %}
+  </div>
+
+  <div class="areas">
+    <h2>Constituencies</h2>
+    {% for constituency in site.areas %}
+    <div class="constituency">
+      <a href="{{ constituency.url | prepend: site.baseurl }}">{{ constituency.name }}</a>
+    </div>
     {% endfor %}
   </div>
 

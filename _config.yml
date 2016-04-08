@@ -31,3 +31,6 @@ collections:
   events:
     output: true
     permalink: '/term/:path/'
+  areas:
+    output: true
+    permalink: '/constituency/:path/'
