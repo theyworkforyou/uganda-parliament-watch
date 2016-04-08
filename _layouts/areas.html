@@ -4,8 +4,31 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
+{% if page.current_membership %}
+<p>Current MP: <a href="{{ page.current_membership.person.url | prepend: site.baseurl }}">{{ page.current_membership.person.name }}</a> ({{ page.current_membership.party.name }})</p>
+{% else %}
+<p>No known current MP.</p>
+{% endif %}
+
+<h3>Former MPs</h3>
 <ul>
-  {% for membership in page.memberships %}
-  <li><a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a></li>
+  {% for membership in page.historic_memberships %}
+  <li>
+    <a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a>
+    Party: {{ membership.party.name }}
+    {% if membership.start_date %}
+    {{ membership.start_date }}
+    {% else %}
+    {{ membership.legislative_period.start_date }}
+    {% endif %}
+    -
+    {% if membership.end_date %}
+    {{ membership.end_date }}
+    {% else %}
+    {{ membership.legislative_period.end_date }}
+    {% endif %}
+  </li>
+  {% else %}
+  <li>No known former MPs.</li>
   {% endfor %}
 </ul>
