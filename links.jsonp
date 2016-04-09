@@ -2600,10 +2600,6 @@ callback([
     "href": "/constituency/area-ayivu-county/"
   },
   {
-    "text": "Bamunaanika County",
-    "href": "/constituency/area-bamunaanika-county/"
-  },
-  {
     "text": "Bamunanika County",
     "href": "/constituency/area-bamunanika-county/"
   },
@@ -4306,10 +4302,6 @@ callback([
   {
     "text": "Forum for Democratic Change",
     "href": "/organizations/fdc.html"
-  },
-  {
-    "text": "Independent",
-    "href": "/organizations/ind.html"
   },
   {
     "text": "Independent",
