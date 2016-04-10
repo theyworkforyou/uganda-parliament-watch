@@ -40,6 +40,10 @@ callback([
     "href": "/mp/40f7b261-76e0-4944-97b4-1865067f349a/"
   },
   {
+    "text": "Agnes Kunihira",
+    "href": "/mp/58306424-0731-4bc0-9a41-48df363b6c51/"
+  },
+  {
     "text": "Agnes Nabirye",
     "href": "/mp/b6b3483d-6dc3-4b4e-b762-ade102157a77/"
   },
@@ -130,6 +134,10 @@ callback([
   {
     "text": "Ann Maria Nankabirwa",
     "href": "/mp/8245b4a0-a69c-4545-961d-e61b62fab563/"
+  },
+  {
+    "text": "Anna Adeke Ebaju",
+    "href": "/mp/336fc150-f14c-43f9-abe9-35fc8985ad93/"
   },
   {
     "text": "Anne Auru",
@@ -296,6 +304,14 @@ callback([
     "href": "/mp/4c6a1dcc-a014-49a7-bab0-bd5c19c5c9bd/"
   },
   {
+    "text": "Capt. Evelyn Assimwe",
+    "href": "/mp/c9f21a18-4280-4d87-92f6-5fc23bbd23e9/"
+  },
+  {
+    "text": "Capt. Suzan Lakot",
+    "href": "/mp/b550c875-e797-4ec9-8d22-75dec1d3c3eb/"
+  },
+  {
     "text": "Caroline Okao Amali",
     "href": "/mp/4cdf8aa7-b64e-4b1b-995d-73d69811d718/"
   },
@@ -382,6 +398,14 @@ callback([
   {
     "text": "Cissy Dionizia Namujju",
     "href": "/mp/e7bfee83-62c9-44fa-a0cf-6b364a6d0553/"
+  },
+  {
+    "text": "Col. Felix Kulayigye",
+    "href": "/mp/25c87581-6af8-4e03-9b19-2a82e53af7ec/"
+  },
+  {
+    "text": "Col. Francis Takirwa",
+    "href": "/mp/adef5f99-c15c-43bf-ba6c-d43ebb62ce2c/"
   },
   {
     "text": "Connie Galiwango Nakayenze",
@@ -680,6 +704,10 @@ callback([
     "href": "/mp/666ff3c4-4f08-4eb2-8243-a3a2bfbc9abe/"
   },
   {
+    "text": "Gen. Elly Tumwine",
+    "href": "/mp/672ab0ac-4210-49df-ab4c-8b4afb93ac34/"
+  },
+  {
     "text": "Genensio Tumuramye",
     "href": "/mp/0bd268d3-8c10-4482-a86c-612fe7262936/"
   },
@@ -934,6 +962,10 @@ callback([
   {
     "text": "Isaias Johny Ssasaga",
     "href": "/mp/bfd2a2dc-ad24-4c06-85d2-eb5b94e43c86/"
+  },
+  {
+    "text": "Ishma Mafabi",
+    "href": "/mp/27b1d768-0733-4fd6-820b-97652767ef00/"
   },
   {
     "text": "Isiko Wilson Mpongo Asupasa",
@@ -1380,6 +1412,14 @@ callback([
     "href": "/mp/ee3661d0-5c80-4f3b-a3cc-b73deab03b42/"
   },
   {
+    "text": "Lt. Col. Flavia Byekwaso",
+    "href": "/mp/d6fe8bf2-ea76-459f-95d1-aa70f7c2d11a/"
+  },
+  {
+    "text": "Lt. Gen. Ivan Koreta",
+    "href": "/mp/119064c8-9e60-47fb-a672-e62dd980993d/"
+  },
+  {
     "text": "Lucy Ajok",
     "href": "/mp/08bc6bc3-47ed-4d24-bcad-a633e11bb608/"
   },
@@ -1426,6 +1466,14 @@ callback([
   {
     "text": "Magret Mbeiza Kisira",
     "href": "/mp/886931dd-be43-43b5-a50f-ec2498303662/"
+  },
+  {
+    "text": "Magret Namubiru Rwabushaija",
+    "href": "/mp/6bd84ffe-6f44-4030-a39c-b32e5541335e/"
+  },
+  {
+    "text": "Maj. Gen. Pecos Kutesa",
+    "href": "/mp/8902932c-9bb1-4c2e-a408-5f97ddb48cf7/"
   },
   {
     "text": "Makubuya Edward Khiddu",
@@ -1704,6 +1752,10 @@ callback([
     "href": "/mp/0936738b-380d-41c9-b9cb-dd32f4f4363f/"
   },
   {
+    "text": "Mwine Mpaka Rwamirama",
+    "href": "/mp/13eb1e2a-fb0f-4b4e-a1d7-898ac0f0df75/"
+  },
+  {
     "text": "N. Stephen Tashobya",
     "href": "/mp/0d643b49-9bfa-4fde-bd2b-ae8ec20e5863/"
   },
@@ -1826,6 +1878,10 @@ callback([
   {
     "text": "Onyango Kakoba",
     "href": "/mp/986fbb36-77f7-482b-8030-15cf346462f4/"
+  },
+  {
+    "text": "Oscar Omony",
+    "href": "/mp/c75709af-cfab-43c9-a6ba-a5815bd5662c/"
   },
   {
     "text": "Otafiire Kahinda",
@@ -2190,6 +2246,10 @@ callback([
   {
     "text": "Santa Ogwang Alum",
     "href": "/mp/0da7c788-83b1-4e46-b6b1-4d247148857d/"
+  },
+  {
+    "text": "Sarah Babirye Kityo",
+    "href": "/mp/ccca6420-7095-4ebf-8bbc-b9398a721008/"
   },
   {
     "text": "Sarah Mateke Nyirabashitsi",
@@ -4318,6 +4378,10 @@ callback([
   {
     "text": "National Resistance Movement",
     "href": "/organizations/party-national-resistance-movement.html"
+  },
+  {
+    "text": "None",
+    "href": "/organizations/none.html"
   },
   {
     "text": "Parliament",
