@@ -8,9 +8,14 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <div id="main" class="container">
+      <div class="content">
+        <div class="content-container">
+          <div class="content-header">
+            <h2 class="content-header-title">{{ page.title }}</h2>
+          </div>
+          {{ content }}
+        </div>
       </div>
     </div>
 
