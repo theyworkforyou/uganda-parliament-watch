@@ -1,9 +1,31 @@
-<header class="site-header">
+<div class="navbar navbar-default">
 
-  <div class="wrapper">
+  <div class="container">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="navbar-header">
 
-  </div>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
 
-</header>
+      <a class="navbar-brand" href="{{ site.baseurl }}/">
+        {{ site.title }}
+      </a>
+
+    </div> <!-- /.navbar-header -->
+    <div class="navbar-collapse collapse">
+
+      <ul class="nav navbar-nav navbar-right">
+
+        <li>
+          <a href="{{ site.baseurl }}/about-uganda-parliament">About</a>
+        </li>
+
+      </ul>
+
+    </div>
+
+  </div> <!-- /.container -->
+
+</div>

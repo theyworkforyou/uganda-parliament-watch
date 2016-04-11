@@ -1,29 +1,42 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="home">
+<div class="row">
 
-  <h1 class="page-heading">{{ site.title }}</h1>
-
-  {% jekyll_search_box %}
-
-  <div class="terms">
-    <h2>Terms</h2>
-    {% for term in site.events %}
-      <div class="term">
-        <a href="{{ term.url | prepend: site.baseurl }}">{{ term.name }}</a>
+  <div class="col-sm-6">
+    <div class="portlet">
+      <div class="portlet-header">
+        <h3>Constituencies</h3>
       </div>
-    {% endfor %}
+
+      <div class="portlet-content">
+        {% for constituency in site.areas %}
+        <div class="constituency">
+          <a href="{{ constituency.url | prepend: site.baseurl }}">{{ constituency.name }}</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 
-  <div class="areas">
-    <h2>Constituencies</h2>
-    {% for constituency in site.areas %}
-    <div class="constituency">
-      <a href="{{ constituency.url | prepend: site.baseurl }}">{{ constituency.name }}</a>
+  <div class="col-sm-6">
+    <div class="portlet">
+      <div class="portlet-header">
+        <h3>Terms</h3>
+      </div>
+
+      <div class="portlet-content">
+        {% for term in site.events %}
+        <div class="term">
+          <a href="{{ term.url | prepend: site.baseurl }}">{{ term.name }}</a>
+        </div>
+        {% endfor %}
+      </div>
     </div>
-    {% endfor %}
+
+    {% jekyll_search_box %}
   </div>
 
 </div>

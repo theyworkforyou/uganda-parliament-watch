@@ -1,9 +1,8 @@
 ---
 layout: default
 permalink: /about-uganda-parliament/
+title: Parliament of Uganda
 ---
-
-# Parliament of Uganda
 
 ## Composition
 

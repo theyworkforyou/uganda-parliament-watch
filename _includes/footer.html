@@ -1,15 +1,19 @@
-<footer class="site-footer">
+<footer class="footer">
+  <div class="container">
+    <div class="row">
 
-  <div>
-    {% markdown footer_content.md %}
+      <div class="col-sm-4">
+        {% markdown footer_content.md %}
+      </div>
+
+      <div class="col-sm-4">
+        {% markdown footer_disclaimer.md %}
+      </div>
+
+      <div class="col-sm-4">
+        <a href="{{ "/about-uganda-parliament/" | prepend: site.baseurl }}">About Uganda Parliament</a>
+      </div>
+
+    </div>
   </div>
-
-  <div>
-    <a href="{{ "/about-uganda-parliament/" | prepend: site.baseurl }}">About Uganda Parliament</a>
-  </div>
-
-  <div>
-    {% markdown footer_disclaimer.md %}
-  </div>
-
 </footer>
