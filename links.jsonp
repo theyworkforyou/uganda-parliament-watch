@@ -1,5 +1,13 @@
 callback([
   {
+    "text": "Home",
+    "href": "/"
+  },
+  {
+    "text": "Parliament of Uganda",
+    "href": "/about-uganda-parliament/"
+  },
+  {
     "text": "Abas Agaba",
     "href": "/mp/d62eb222-190e-49a8-9b09-21ad56bf8581/"
   },
