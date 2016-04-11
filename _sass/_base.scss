@@ -1,5 +1,14 @@
-body {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 10px;
+@import "bootstrap";
+@import "target-admin";
+
+#main {
+    margin-top: 60px;
+}
+
+.navbar-default .navbar-toggle {
+    border: none;
+}
+
+.jekyll-search__select {
+    @extend .form-control;
 }
