@@ -2808,16 +2808,8 @@ callback([
     "href": "/constituency/area-bugweri-county/"
   },
   {
-    "text": "Buhaguzi",
-    "href": "/constituency/area-buhaguzi/"
-  },
-  {
     "text": "Buhaguzi County",
     "href": "/constituency/area-buhaguzi-county/"
-  },
-  {
-    "text": "Buhweju",
-    "href": "/constituency/area-buhweju/"
   },
   {
     "text": "Buhweju County",
@@ -2854,10 +2846,6 @@ callback([
   {
     "text": "Bujumba County",
     "href": "/constituency/area-bujumba-county/"
-  },
-  {
-    "text": "Bukanga",
-    "href": "/constituency/area-bukanga/"
   },
   {
     "text": "Bukanga County",
@@ -3072,8 +3060,8 @@ callback([
     "href": "/constituency/area-burahya-county/"
   },
   {
-    "text": "Buruli",
-    "href": "/constituency/area-buruli/"
+    "text": "Buruli County",
+    "href": "/constituency/area-buruli-county/"
   },
   {
     "text": "Buruuli County",
@@ -3364,8 +3352,8 @@ callback([
     "href": "/constituency/area-iki-iki-county/"
   },
   {
-    "text": "Iki Iki",
-    "href": "/constituency/area-iki-iki/"
+    "text": "Iki Iki County",
+    "href": "/constituency/area-iki-iki-county/"
   },
   {
     "text": "Isingiro County North",
@@ -3426,10 +3414,6 @@ callback([
   {
     "text": "Kagoma County",
     "href": "/constituency/area-kagoma-county/"
-  },
-  {
-    "text": "Kajara",
-    "href": "/constituency/area-kajara/"
   },
   {
     "text": "Kajara County",
@@ -3500,12 +3484,8 @@ callback([
     "href": "/constituency/area-kashari-south/"
   },
   {
-    "text": "Kashongi",
-    "href": "/constituency/area-kashongi/"
-  },
-  {
-    "text": "Kasilo",
-    "href": "/constituency/area-kasilo/"
+    "text": "Kashongi County",
+    "href": "/constituency/area-kashongi-county/"
   },
   {
     "text": "Kasilo County",
@@ -3528,10 +3508,6 @@ callback([
     "href": "/constituency/area-kassanda-south/"
   },
   {
-    "text": "Katerera",
-    "href": "/constituency/area-katerera/"
-  },
-  {
     "text": "Katerera County",
     "href": "/constituency/area-katerera-county/"
   },
@@ -3548,7 +3524,7 @@ callback([
     "href": "/constituency/area-katikamu-north/"
   },
   {
-    "text": "katikamu south",
+    "text": "Katikamu South",
     "href": "/constituency/area-katikamu-south/"
   },
   {
@@ -3566,10 +3542,6 @@ callback([
   {
     "text": "Kawempe South",
     "href": "/constituency/area-kawempe-south/"
-  },
-  {
-    "text": "Kazo",
-    "href": "/constituency/area-kazo/"
   },
   {
     "text": "Kazo County",
@@ -3764,10 +3736,6 @@ callback([
     "href": "/constituency/area-kyotera-county/"
   },
   {
-    "text": "Labwor",
-    "href": "/constituency/area-labwor/"
-  },
-  {
     "text": "Labwor County",
     "href": "/constituency/area-labwor-county/"
   },
@@ -3788,8 +3756,8 @@ callback([
     "href": "/constituency/area-lugazi-municipality/"
   },
   {
-    "text": "Lutseshe",
-    "href": "/constituency/area-lutseshe/"
+    "text": "Lutseshe County",
+    "href": "/constituency/area-lutseshe-county/"
   },
   {
     "text": "Luuka County",
@@ -3834,10 +3802,6 @@ callback([
   {
     "text": "Manjiya County",
     "href": "/constituency/area-manjiya-county/"
-  },
-  {
-    "text": "Maracha",
-    "href": "/constituency/area-maracha/"
   },
   {
     "text": "Maracha County",
@@ -3992,10 +3956,6 @@ callback([
     "href": "/constituency/area-nakasongola-county/"
   },
   {
-    "text": "Nakawa",
-    "href": "/constituency/area-nakawa/"
-  },
-  {
     "text": "Nakawa Division",
     "href": "/constituency/area-nakawa-division/"
   },
@@ -4056,16 +4016,12 @@ callback([
     "href": "/constituency/area-ntungamo-municipality/"
   },
   {
-    "text": "Ntwetwe",
-    "href": "/constituency/area-ntwetwe/"
+    "text": "Ntwetwe County",
+    "href": "/constituency/area-ntwetwe-county/"
   },
   {
     "text": "Nwoya County",
     "href": "/constituency/area-nwoya-county/"
-  },
-  {
-    "text": "Nyabushozi",
-    "href": "/constituency/area-nyabushozi/"
   },
   {
     "text": "Nyabushozi County",
@@ -4172,8 +4128,8 @@ callback([
     "href": "/constituency/area-ruhama-county/"
   },
   {
-    "text": "Ruhinda",
-    "href": "/constituency/area-ruhinda/"
+    "text": "Ruhinda County",
+    "href": "/constituency/area-ruhinda-county/"
   },
   {
     "text": "Ruhinda North",
@@ -4342,6 +4298,10 @@ callback([
   {
     "text": "Workers' Represantive",
     "href": "/constituency/area-workers-represantive/"
+  },
+  {
+    "text": "Workers' Representative",
+    "href": "/constituency/area-workers-representative/"
   },
   {
     "text": "YOUTH",
