@@ -27,9 +27,9 @@ collections:
   events:
     output: true
     permalink: '/term/:path/'
-  areas:
+  districts:
     output: true
-    permalink: '/constituency/:path/'
+    permalink: '/district/:path/'
 
 collections_to_search:
   - people
