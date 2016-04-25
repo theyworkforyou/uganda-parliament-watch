@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/theyworkforyou/jekyll-everypolitician
+  revision: cf205b93b1981f23c925892776b01af69497ad44
+  branch: add-posts-support
+  specs:
+    jekyll-everypolitician (0.7.0)
+      jekyll (>= 3)
+
+GIT
   remote: https://github.com/theyworkforyou/jekyll-search
   revision: bad20e2e63f04cdfe80933e2b6b0951befd82a2a
   branch: handle-baseurl
@@ -12,7 +20,7 @@ GEM
     coderay (1.1.1)
     colorator (0.1)
     ffi (1.9.10)
-    jekyll (3.1.2)
+    jekyll (3.1.3)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -21,8 +29,6 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-everypolitician (0.7.0)
-      jekyll (>= 3)
     jekyll-facebook_comments (0.1.0)
       liquid (>= 3)
     jekyll-sass-converter (1.4.0)
@@ -53,7 +59,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.1)
-  jekyll-everypolitician
+  jekyll-everypolitician!
   jekyll-facebook_comments
   jekyll-search!
   pry
