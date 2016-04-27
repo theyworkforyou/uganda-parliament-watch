@@ -37,6 +37,20 @@ title: Home
       </div>
     </div>
 
+    <div class="portlet">
+      <div class="portlet-header">
+        <h3>Posts</h3>
+      </div>
+
+      <div class="portlet-content">
+        {% for post in site.posts %}
+        <div class="post">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.label }}</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
     {% jekyll_search_box %}
   </div>
 

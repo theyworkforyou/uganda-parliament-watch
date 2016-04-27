@@ -30,6 +30,9 @@ collections:
   districts:
     output: true
     permalink: '/district/:path/'
+  posts:
+    output: true
+    permalink: '/post/:path/'
 
 collections_to_search:
   - people
