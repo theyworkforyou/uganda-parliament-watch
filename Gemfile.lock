@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/theyworkforyou/jekyll-everypolitician
-  revision: cf205b93b1981f23c925892776b01af69497ad44
-  branch: add-posts-support
+  revision: fbf2eb067d346a93b68b64347f50c96d6eb4d51d
+  branch: master
   specs:
     jekyll-everypolitician (0.7.0)
       jekyll (>= 3)
@@ -33,8 +33,8 @@ GEM
       liquid (>= 3)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
-    jekyll-watch (1.3.1)
-      listen (~> 3.0)
+    jekyll-watch (1.4.0)
+      listen (~> 3.0, < 3.1)
     kramdown (1.10.0)
     liquid (3.0.6)
     listen (3.0.6)
