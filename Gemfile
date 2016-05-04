@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-everypolitician', git: 'https://github.com/theyworkforyou/jekyll-everypolitician', branch: 'master'
   gem 'jekyll-search', git: 'https://github.com/theyworkforyou/jekyll-search', branch: 'handle-baseurl'
   gem 'jekyll-facebook_comments'
+  gem 'jekyll-popolo', git: 'https://github.com/theyworkforyou/jekyll-popolo', branch: 'master'
 end
