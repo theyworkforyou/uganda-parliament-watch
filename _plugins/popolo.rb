@@ -3,6 +3,13 @@ require 'open-uri'
 Jekyll::Popolo.register(:senate, open(File.read('EVERYPOLITICIAN_DATASOURCE').chomp).read)
 
 Jekyll::Popolo.process(:senate) do |site, popolo|
+  popolo['memberships'].each do |membership|
+    membership['person'] = popolo['persons'].find { |p| p['id'] == membership['person_id'] }
+    membership['party'] = popolo['organizations'].find { |o| o['id'] == membership['on_behalf_of_id'] }
+    membership['term'] = popolo['events'].find { |e| e['id'] == membership['legislative_period_id'] }
+    membership['post'] = popolo['posts'].find { |p| p['id'] == membership['post_id'] }
+    membership['area'] = popolo['areas'].find { |a| a['id'] == membership['area_id'] }
+  end
   posts = popolo['posts'].map do |p|
     layout = Jekyll::Utils.slugify(p['label']).gsub('-', '_')
     if site.layouts.key?(layout)
