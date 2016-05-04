@@ -31,6 +31,12 @@ collections:
   districts:
     output: true
     permalink: '/district/:path/'
+  term_9_posts:
+    output: true
+    permalink: '/term/9/post/:path/'
+  term_10_posts:
+    output: true
+    permalink: '/term/10/post/:path/'
 
 collections_to_search:
   - people
