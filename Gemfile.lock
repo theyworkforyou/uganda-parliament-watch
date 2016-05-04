@@ -8,11 +8,10 @@ GIT
 
 GIT
   remote: https://github.com/theyworkforyou/jekyll-popolo
-  revision: 16fcf12cb1853bed2a0cda83f7565f1fd064c188
+  revision: e33fbdc234220eb51f83c44d8512fd330958f108
   branch: master
   specs:
     jekyll-popolo (0.1.0)
-      everypolitician-popolo
       jekyll (>= 3.0.0)
 
 GIT
@@ -28,7 +27,6 @@ GEM
   specs:
     coderay (1.1.1)
     colorator (0.1)
-    everypolitician-popolo (0.2.0)
     ffi (1.9.10)
     jekyll (3.1.3)
       colorator (~> 0.1)
@@ -45,9 +43,9 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
-    kramdown (1.10.0)
+    kramdown (1.11.1)
     liquid (3.0.6)
-    listen (3.0.6)
+    listen (3.0.7)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
