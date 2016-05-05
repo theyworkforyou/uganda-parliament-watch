@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/theyworkforyou/jekyll-popolo
-  revision: e33fbdc234220eb51f83c44d8512fd330958f108
+  revision: eb73b9f684dee6aef365f6f00bf98555014baf49
   branch: master
   specs:
     jekyll-popolo (0.1.0)
