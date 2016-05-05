@@ -7,6 +7,14 @@ GIT
       jekyll (>= 3)
 
 GIT
+  remote: https://github.com/theyworkforyou/jekyll-popolo
+  revision: eb73b9f684dee6aef365f6f00bf98555014baf49
+  branch: master
+  specs:
+    jekyll-popolo (0.1.0)
+      jekyll (>= 3.0.0)
+
+GIT
   remote: https://github.com/theyworkforyou/jekyll-search
   revision: bad20e2e63f04cdfe80933e2b6b0951befd82a2a
   branch: handle-baseurl
@@ -35,9 +43,9 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
-    kramdown (1.10.0)
+    kramdown (1.11.1)
     liquid (3.0.6)
-    listen (3.0.6)
+    listen (3.0.7)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
@@ -61,8 +69,9 @@ DEPENDENCIES
   jekyll (~> 3.1)
   jekyll-everypolitician!
   jekyll-facebook_comments
+  jekyll-popolo!
   jekyll-search!
   pry
 
 BUNDLED WITH
-   1.11.2
+   1.12.1

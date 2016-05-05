@@ -16,7 +16,6 @@ baseurl: "/uganda-parliament-watch" # the subpath of your site, e.g. /blog
 url: "https://theyworkforyou.github.io" # the base hostname & protocol for your site
 twitter_username:
 exclude: [Gemfile, Gemfile.lock, README.md, vendor]
-permalink: '/post/:path/'
 
 # Build settings
 markdown: kramdown
@@ -31,6 +30,12 @@ collections:
   districts:
     output: true
     permalink: '/district/:path/'
+  term_9_posts:
+    output: true
+    permalink: '/post/:path/9/'
+  term_10_posts:
+    output: true
+    permalink: '/post/:path/10/'
 
 collections_to_search:
   - people

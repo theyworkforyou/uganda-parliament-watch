@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% for membership in page.memberships %}
+<div class="row">
+  <div class="col-md-3">
+    <div class="profile-pic">
+      {% if membership.person.image %}
+      <img src="{{ membership.person.image }}" alt=" Photo of {{ membership.person.name }}" width="100">
+      {% else %}
+      <img src="{{ site.baseurl }}/images/person-210x210.jpg" alt="Person image placeholder" width="100">
+      {% endif %}
+    </div>
+
+  </div>
+
+  <div class="col-md-9">
+    <a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a>
+
+    {{ membership.start_date }} {% if membership.start_date or membership.end_date %}-{% endif %} {{ membership.end_date }}
+
+    <dl>
+
+      {% if membership.area %}
+      <dt>Area</dt>
+      <dd>{{ membership.area.name }}</dd>
+      {% endif %}
+
+      {% if membership.party %}
+      <dt>Party</dt>
+      <dd>{{ membership.party.name }}</dd>
+      {% endif %}
+
+    </dl>
+
+
+  </div>
+</div>
+
+{% else %}
+<p>No known people found for this term.</p>
+{% endfor %}
