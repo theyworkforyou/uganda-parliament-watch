@@ -1,8 +1,8 @@
 require 'open-uri'
 
-Jekyll::Popolo.register(:senate, open(File.read('EVERYPOLITICIAN_DATASOURCE').chomp).read)
+Jekyll::Popolo.register(:parliament, open(File.read('EVERYPOLITICIAN_DATASOURCE').chomp).read)
 
-Jekyll::Popolo.process(:senate) do |site, popolo|
+Jekyll::Popolo.process(:parliament) do |site, popolo|
   popolo['memberships'].each do |membership|
     membership['person'] = popolo['persons'].find { |p| p['id'] == membership['person_id'] }
     membership['party'] = popolo['organizations'].find { |o| o['id'] == membership['on_behalf_of_id'] }
