@@ -76,5 +76,5 @@ Jekyll::Popolo.process do |site, popolo|
       'memberships' => memberships
     }
   end
-  popolo.create_jekyll_collections(districts: districts)
+  popolo.create_jekyll_collections(districts: districts.sort_by { |d| d['name'] })
 end
