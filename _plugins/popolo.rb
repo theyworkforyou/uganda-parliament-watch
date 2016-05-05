@@ -61,6 +61,12 @@ Jekyll::Popolo.process do |site, popolo|
     term_10_posts: term_10_posts,
   )
 
+  %w(term_9_posts term_10_posts).each do |collection|
+    site.collections[collection].docs.each do |post|
+      post.data['memberships'].each { |m| m.data['post'] = post }
+    end
+  end
+
   ocd_ids = CSV.parse(open('https://github.com/theyworkforyou/uganda_ocd_ids/raw/master/identifiers/country-ug.csv').read, headers: true, header_converters: :symbol)
   ocd_mapping = Hash[ocd_ids.map { |id| [id[:id], id[:name]] }]
   # Group current memberships by district
@@ -72,6 +78,9 @@ Jekyll::Popolo.process do |site, popolo|
   end
   districts = memberships_by_district.map do |id, memberships|
     {
+      'id' => id,
+      'title' => ocd_mapping[id] || id,
+      'layout' => 'districts',
       'name' => ocd_mapping[id] || id,
       'memberships' => memberships
     }

@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<h2>{{ page.name }}</h2>
-
 {% for membership in page.memberships %}
 <div class="row">
   <div class="col-md-3">
@@ -26,12 +24,7 @@ layout: default
 
       {% if membership.post %}
       <dt>Post</dt>
-      <dd>{{ membership.post.label }}</dd>
-      {% endif %}
-
-      {% if membership.area %}
-      <dt>Area</dt>
-      <dd>{{ membership.area.name }}</dd>
+      <dd><a href="{{ membership.post.url }}">{{ membership.post.label }}</a></dd>
       {% endif %}
 
       {% if membership.party %}
