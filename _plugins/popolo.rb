@@ -42,16 +42,18 @@ Jekyll::Popolo.process do |site, popolo|
   end
 
   term_9_posts = posts.map do |p|
-    p['memberships'] = parliament['memberships'].find_all do |m|
-      m['post_id'] == p['id'] && m['legislative_period_id'] == 'term/9'
-    end
-    p
+    p.merge(
+      'memberships' => site.collections['memberships'].docs.find_all do |m|
+        m['post_id'] == p['id'] && m['legislative_period_id'] == 'term/9'
+      end
+    )
   end
   term_10_posts = posts.map do |p|
-    p['memberships'] = parliament['memberships'].find_all do |m|
-      m['post_id'] == p['id'] && m['legislative_period_id'] == 'term/10'
-    end
-    p
+    p.merge(
+      'memberships' => site.collections['memberships'].docs.find_all do |m|
+        m['post_id'] == p['id'] && m['legislative_period_id'] == 'term/10'
+      end
+    )
   end
 
   popolo.create_jekyll_collections(
