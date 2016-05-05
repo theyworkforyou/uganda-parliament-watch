@@ -33,10 +33,10 @@ collections:
     permalink: '/district/:path/'
   term_9_posts:
     output: true
-    permalink: '/term/9/post/:path/'
+    permalink: '/post/:path/9/'
   term_10_posts:
     output: true
-    permalink: '/term/10/post/:path/'
+    permalink: '/post/:path/10/'
 
 collections_to_search:
   - people
