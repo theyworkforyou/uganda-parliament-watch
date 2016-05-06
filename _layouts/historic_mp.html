@@ -6,6 +6,32 @@ layout: default
 
 <div itemscope itemtype="http://schema.org/Person">
 
+  <div class="page-header">
+    <h3>Previous positions held</h3>
+    {% for membership in person.memberships %}
+    <p>
+    {% if membership.post %}
+    Post: <a href="{{ membership.post.url | prepend: site.baseurl }}">{{ membership.post.label }}</a>{% if membership.area %} for {{ membership.area.name }}{% endif %}.
+    {% elsif membership.area %}
+    MP for {{ membership.area.name }}.
+    {% endif %}
+    {% if membership.party %}
+    Party: {{ membership.party.name }}.
+    {% endif %}
+    Term: {{ membership.legislative_period.name }}.
+
+    {% if membership.start_date %}
+    Start date: {{ membership.start_date | date_to_long_string }}
+    {% endif %}
+
+    {% if membership.end_date %}
+    End date: {{ membership.end_date | date_to_long_string }}
+    {% endif %}
+
+    </p>
+    {% endfor %}
+  </div>
+
   {% include person_profile.html %}
 
 </div>
