@@ -1,0 +1,23 @@
+{% if page.previous_term_posts or page.next_term_posts %}
+<nav>
+  <ul class="pager">
+
+    {% if page.previous_term_posts %}
+    {% assign previous_term_membership = page.previous_term_posts.memberships | first %}
+    {% assign previous_term = previous_term_membership.legislative_period %}
+    <li class="previous">
+      <a href="{{ page.previous_term_posts.url }}"><span aria-hidden="true">&larr;</span> {{ previous_term.name }}</a>
+    </li>
+    {% endif %}
+
+    {% if page.next_term_posts %}
+    {% assign next_term_membership = page.next_term_posts.memberships | first %}
+    {% assign next_term = next_term_membership.legislative_period %}
+    <li class="next">
+      <a href="{{ page.next_term_posts.url }}">{{ next_term.name }} <span aria-hidden="true">&rarr;</span></a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}
+
