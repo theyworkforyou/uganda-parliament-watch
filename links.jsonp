@@ -2756,16 +2756,8 @@ callback([
     "href": "/district/eastern-busoga-buyende/"
   },
   {
-    "text": "Central",
-    "href": "/district/central/"
-  },
-  {
     "text": "Dokolo",
     "href": "/district/northern-lango-dokolo/"
-  },
-  {
-    "text": "Eastern",
-    "href": "/district/eastern/"
   },
   {
     "text": "Gomba",
@@ -3056,20 +3048,12 @@ callback([
     "href": "/district/northern-karamoja-napak/"
   },
   {
-    "text": "National",
-    "href": "/district/national/"
-  },
-  {
     "text": "Nebbi",
     "href": "/district/northern-west-nile-nebbi/"
   },
   {
     "text": "Ngora",
     "href": "/district/eastern-teso-ngora/"
-  },
-  {
-    "text": "Northern",
-    "href": "/district/northern/"
   },
   {
     "text": "Ntoroko",
@@ -3146,10 +3130,6 @@ callback([
   {
     "text": "Wakiso",
     "href": "/district/western-buganda-wakiso/"
-  },
-  {
-    "text": "Western",
-    "href": "/district/western/"
   },
   {
     "text": "Yumbe",
