@@ -98,12 +98,14 @@ Jekyll::Popolo.process do |site, popolo|
     d['area_id'].split('/').slice_after(/^district\:/).first.join('/')
   end
   districts = memberships_by_district.map do |id, memberships|
+    current_memberships, historic_memberships = memberships.partition { |m| m['legislative_period_id'] == 'term/10' }
     {
       'id' => id,
       'title' => ocd_mapping[id] || id,
       'layout' => 'districts',
       'name' => ocd_mapping[id] || id,
-      'memberships' => memberships
+      'current_memberships' => current_memberships,
+      'historic_memberships' => historic_memberships,
     }
   end
   popolo.create_jekyll_collections(districts: districts.sort_by { |d| d['name'] })

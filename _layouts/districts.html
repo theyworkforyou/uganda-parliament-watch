@@ -2,43 +2,23 @@
 layout: default
 ---
 
-{% for membership in page.memberships %}
-<div class="row">
-  <div class="col-md-3">
-    <div class="profile-pic">
-      {% if membership.person.image %}
-      <img src="{{ membership.person.image }}" alt=" Photo of {{ membership.person.name }}" width="100">
-      {% else %}
-      <img src="{{ site.baseurl }}/images/person-210x210.jpg" alt="Person image placeholder" width="100">
-      {% endif %}
-    </div>
-
-  </div>
-
-  <div class="col-md-9">
-    <a href="{{ membership.person.url | prepend: site.baseurl }}">{{ membership.person.name }}</a>
-
-    {{ membership.start_date }} {% if membership.start_date or membership.end_date %}-{% endif %} {{ membership.end_date }}
-
-    <dl>
-
-      {% if membership.post %}
-      <dt>Post</dt>
-      <dd><a href="{{ membership.post.url }}">{{ membership.post.label }}</a></dd>
-      {% endif %}
-
-      {% if membership.party %}
-      <dt>Party</dt>
-      <dd>{{ membership.party.name }}</dd>
-      {% endif %}
-
-      <dt>Term</dt>
-      <dd>{{ membership.legislative_period.name }}</dd>
-
-    </dl>
-
-
-  </div>
+<div class="page-header">
+  <h3>Current members</h3>
 </div>
+
+{% for membership in page.current_memberships %}
+
+{% include person_row.html %}
+
+{% endfor %}
+
+
+<div class="page-header">
+  <h3>Former members</h3>
+</div>
+
+{% for membership in page.historic_memberships %}
+
+{% include person_row.html %}
 
 {% endfor %}
