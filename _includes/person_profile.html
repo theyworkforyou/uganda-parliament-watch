@@ -3,6 +3,8 @@
     <div class="profile-pic">
       {% if person.image %}
       <img itemprop="image" src="{{ person.image }}" alt=" Photo of {{ person.name }}" width="100">
+      {% else %}
+      <img src="{{ site.baseurl }}/images/person-210x210.jpg" alt="Person image placeholder" width="100">
       {% endif %}
     </div>
   </div>
