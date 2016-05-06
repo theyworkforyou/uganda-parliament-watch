@@ -92,7 +92,7 @@ Jekyll::Popolo.process do |site, popolo|
   ocd_mapping = Hash[ocd_ids.map { |id| [id[:id], id[:name]] }]
   # Group current memberships by district
   district_memberships = site.collections['memberships'].docs.find_all do |membership|
-    membership['area_id']
+    membership['area_id'] && (membership['area_id'].start_with?('area/') || membership['area_id'].include?('district:'))
   end
   memberships_by_district = district_memberships.group_by do |d|
     d['area_id'].split('/').slice_after(/^district\:/).first.join('/')
