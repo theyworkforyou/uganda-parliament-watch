@@ -91,14 +91,14 @@ Jekyll::Popolo.process do |site, popolo|
   ocd_ids = CSV.parse(open('https://github.com/theyworkforyou/uganda_ocd_ids/raw/master/identifiers/country-ug.csv').read, headers: true, header_converters: :symbol)
   ocd_mapping = Hash[ocd_ids.map { |id| [id[:id], id[:name]] }]
   # Group current memberships by district
-  memberships, memberships_without_area = site.collections['memberships'].docs.partition do |membership|
+  district_memberships = site.collections['memberships'].docs.find_all do |membership|
     membership['area_id']
   end
-  memberships_by_district = memberships.group_by do |d|
+  memberships_by_district = district_memberships.group_by do |d|
     d['area_id'].split('/').slice_after(/^district\:/).first.join('/')
   end
-  districts = memberships_by_district.map do |id, memberships|
-    current_memberships, historic_memberships = memberships.partition { |m| m['legislative_period_id'] == 'term/10' }
+  districts = memberships_by_district.map do |id, district_memberships|
+    current_memberships, historic_memberships = district_memberships.partition { |m| m['legislative_period_id'] == 'term/10' }
     {
       'id' => id.sub('ocd-division/country:ug/', '').gsub(/\w+\:/, ''),
       'title' => ocd_mapping[id] || id,
