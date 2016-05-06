@@ -99,7 +99,7 @@ Jekyll::Popolo.process do |site, popolo|
   end
   districts = memberships_by_district.map do |id, memberships|
     {
-      'id' => id,
+      'id' => id.sub('ocd-division/country:ug/', '').gsub(/\w+\:/, ''),
       'title' => ocd_mapping[id] || id,
       'layout' => 'districts',
       'name' => ocd_mapping[id] || id,
