@@ -7,7 +7,14 @@ layout: default
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="page-header">
-    <p>Current MP for {{ person.current_membership.area.name }}. Party: {{ person.current_membership.party.name }}.</p>
+    <p>
+    {% if person.current_membership.area %}
+    Current MP for {{ person.current_membership.area.name }}.
+    {% endif %}
+    {% if person.current_membership.party %}
+    Party: {{ person.current_membership.party.name }}.
+    {% endif %}
+    </p>
   </div>
 
   {% include person_profile.html %}
