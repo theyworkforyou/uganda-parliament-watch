@@ -1,5 +1,15 @@
 require 'open-uri'
 
+def available_images
+  @available_images ||= begin
+    index_txt_url = 'https://theyworkforyou.github.io/uganda-images/Parliament/index.txt'
+    @available_images = open(index_txt_url).to_a.map(&:chomp)
+  end
+rescue OpenURI::HTTPError => e
+  warn "Couldn't retrieve list of available images: #{e.message}"
+  []
+end
+
 Jekyll::Popolo.register_popolo_file(:parliament, open(File.read('EVERYPOLITICIAN_DATASOURCE').chomp).read)
 
 Jekyll::Popolo.process do |site, popolo|
@@ -7,8 +17,11 @@ Jekyll::Popolo.process do |site, popolo|
   people = parliament['persons'].map do |person|
     person['layout'] = 'people'
     person['title'] = person['name']
-    if person['image']
+    if available_images.include?(person['id'])
       person['image'] = "https://theyworkforyou.github.io/uganda-images/Parliament/#{person['id']}.jpeg"
+    else
+      # If we don't have a cached version remove the image property from person
+      person.delete('image')
     end
     person
   end
