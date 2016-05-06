@@ -6,7 +6,7 @@
     {% assign previous_term_membership = page.previous_term_posts.memberships | first %}
     {% assign previous_term = previous_term_membership.legislative_period %}
     <li class="previous">
-      <a href="{{ page.previous_term_posts.url }}"><span aria-hidden="true">&larr;</span> {{ previous_term.name }}</a>
+      <a href="{{ page.previous_term_posts.url | prepend: site.baseurl }}"><span aria-hidden="true">&larr;</span> {{ previous_term.name }}</a>
     </li>
     {% endif %}
 
@@ -14,7 +14,7 @@
     {% assign next_term_membership = page.next_term_posts.memberships | first %}
     {% assign next_term = next_term_membership.legislative_period %}
     <li class="next">
-      <a href="{{ page.next_term_posts.url }}">{{ next_term.name }} <span aria-hidden="true">&rarr;</span></a>
+      <a href="{{ page.next_term_posts.url | prepend: site.baseurl }}">{{ next_term.name }} <span aria-hidden="true">&rarr;</span></a>
     </li>
     {% endif %}
   </ul>
