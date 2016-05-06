@@ -21,3 +21,16 @@
 </nav>
 {% endif %}
 
+{% assign current_term_membership = page.memberships | first %}
+{% assign current_term = current_term_membership.legislative_period %}
+
+<div class="page-header">
+  <h2>{{ current_term.name }}
+    {% if current_term.start_date or current_term.end_date %}
+    <small>
+      {% if current_term.start_date %}Start date: {{ current_term.start_date | date_to_long_string }}{% endif %}
+      {% if current_term.end_date %} End date: {{ current_term.end_date | date_to_long_string }}{% endif %}
+    </small>
+    {% endif %}
+  </h2>
+</div>
