@@ -27,6 +27,11 @@
       <dd>{{ membership.party.name }}</dd>
       {% endif %}
 
+      {% if membership.area and membership.area.name != page.name %}
+      <dt>Area</dt>
+      <dd>{{ membership.area.name }}</dd>
+      {% endif %}
+
       <dt>Term</dt>
       <dd>{{ membership.legislative_period.name }}</dd>
 
