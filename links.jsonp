@@ -25,15 +25,11 @@ callback([
   },
   {
     "text": null,
-    "href": "/2016/05/06/workers-represantive.html"
+    "href": "/2016/05/06/workers-representative.html"
   },
   {
     "text": null,
     "href": "/2016/05/06/pwd.html"
-  },
-  {
-    "text": null,
-    "href": "/2016/05/06/workers-representative.html"
   },
   {
     "text": "Abas Agaba",
@@ -2649,6 +2645,10 @@ callback([
   },
   {
     "text": "Agago",
+    "href": "/district/ocd-division-country-ug-region-northern-subregion-lango-district-agago/"
+  },
+  {
+    "text": "Agago",
     "href": "/district/ocd-division-country-ug-region-northern-subregion-acholi-district-agago/"
   },
   {
@@ -3712,82 +3712,6 @@ callback([
     "href": "/district/area-zombo-district/"
   },
   {
-    "text": "ocd-division/country:ug/region:nothern/subregion:acholi/district:gulu",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-acholi-district-gulu/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:acholi/district:kitgum",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-acholi-district-kitgum/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:acholi/district:lamwo",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-acholi-district-lamwo/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:karamoja/district:kaabong",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-karamoja-district-kaabong/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:karamoja/district:kotido",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-karamoja-district-kotido/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:karamoja/district:moroto",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-karamoja-district-moroto/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:karamoja/district:nakapiripirit",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-karamoja-district-nakapiripirit/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:karamoja/district:napak",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-karamoja-district-napak/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:lango/district:agago",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-lango-district-agago/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:lango/district:alebtong",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-lango-district-alebtong/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:lango/district:apac",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-lango-district-apac/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:lango/district:kole",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-lango-district-kole/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:lango/district:lira",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-lango-district-lira/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:lango/district:oyam",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-lango-district-oyam/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:west_nile/district:arua",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-west-nile-district-arua/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:west_nile/district:koboko",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-west-nile-district-koboko/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:west_nile/district:maracha",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-west-nile-district-maracha/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:west_nile/district:moyo",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-west-nile-district-moyo/"
-  },
-  {
-    "text": "ocd-division/country:ug/region:nothern/subregion:west_nile/district:zombo",
-    "href": "/district/ocd-division-country-ug-region-nothern-subregion-west-nile-district-zombo/"
-  },
-  {
     "text": "Woman Representative",
     "href": "/post/woman-representative/9/"
   },
@@ -3804,16 +3728,12 @@ callback([
     "href": "/post/updf/9/"
   },
   {
-    "text": "Workers' Represantive",
-    "href": "/post/workers-represantive/9/"
+    "text": "Workers' Representative",
+    "href": "/post/workers-representative/9/"
   },
   {
     "text": "PWD",
     "href": "/post/pwd/9/"
-  },
-  {
-    "text": "Workers' Representative",
-    "href": "/post/workers-representative/9/"
   },
   {
     "text": "Woman Representative",
@@ -3832,16 +3752,12 @@ callback([
     "href": "/post/updf/10/"
   },
   {
-    "text": "Workers' Represantive",
-    "href": "/post/workers-represantive/10/"
+    "text": "Workers' Representative",
+    "href": "/post/workers-representative/10/"
   },
   {
     "text": "PWD",
     "href": "/post/pwd/10/"
-  },
-  {
-    "text": "Workers' Representative",
-    "href": "/post/workers-representative/10/"
   },
   {
     "text": null,
@@ -3861,15 +3777,11 @@ callback([
   },
   {
     "text": null,
-    "href": "/2016/05/06/workers-represantive.html"
+    "href": "/2016/05/06/workers-representative.html"
   },
   {
     "text": null,
     "href": "/2016/05/06/pwd.html"
-  },
-  {
-    "text": null,
-    "href": "/2016/05/06/workers-representative.html"
   },
   {
     "text": "Conservative Party",
@@ -7844,7 +7756,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-rubaga-south.html"
   },
   {
-    "text": "Kayunga",
+    "text": "kayunga",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kayunga.html"
   },
   {
@@ -8320,7 +8232,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-iganga-constituency-kigulu-south.html"
   },
   {
-    "text": "Jinja",
+    "text": "JINJA",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-jinja.html"
   },
   {
@@ -8600,6 +8512,10 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-amuru-constituency-kilak-south.html"
   },
   {
+    "text": "Gulu",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-gulu.html"
+  },
+  {
     "text": "Aswa County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-gulu-constituency-aswa-county.html"
   },
@@ -8616,6 +8532,10 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-gulu-constituency-tochi-county.html"
   },
   {
+    "text": "Kitgum",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-kitgum.html"
+  },
+  {
     "text": "Chua West County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-kitgum-constituency-chua-west-county.html"
   },
@@ -8626,6 +8546,10 @@ callback([
   {
     "text": "Kitgum Municipality",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-kitgum-constituency-kitgum-municipality.html"
+  },
+  {
+    "text": "Lamwo",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-lamwo.html"
   },
   {
     "text": "Lamwo County",
@@ -8660,6 +8584,10 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-abim-constituency-labwor-county.html"
   },
   {
+    "text": "Kaabong",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kaabong.html"
+  },
+  {
     "text": "Dodoth East",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kaabong-constituency-dodoth-east.html"
   },
@@ -8672,8 +8600,16 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kabong-constituency-ik-county.html"
   },
   {
+    "text": "Kotido",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kotido.html"
+  },
+  {
     "text": "Jie County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kotido-constituency-jie-county.html"
+  },
+  {
+    "text": "Moroto",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-moroto.html"
   },
   {
     "text": "Matheniko",
@@ -8688,6 +8624,10 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-moroto-constituency-tepeth-county.html"
   },
   {
+    "text": "Nakapiripirit",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-nakapiripirit.html"
+  },
+  {
     "text": "Chekwii County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-nakapiripirit-constituency-chekwii-county.html"
   },
@@ -8696,8 +8636,20 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-nakapiripirit-constituency-pian-county.html"
   },
   {
+    "text": "Napak",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-napak.html"
+  },
+  {
     "text": "Bokora County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-napak-constituency-bokora-county.html"
+  },
+  {
+    "text": "Agago",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-agago.html"
+  },
+  {
+    "text": "Alebtong",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-alebtong.html"
   },
   {
     "text": "Ajuri County",
@@ -8714,6 +8666,10 @@ callback([
   {
     "text": "Kioga County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-amolatar-constituency-kioga-county.html"
+  },
+  {
+    "text": "Apac",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-apac.html"
   },
   {
     "text": "Kwania County",
@@ -8736,12 +8692,20 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-dokolo-constituency-dokolo-south.html"
   },
   {
+    "text": "Kole",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-kole.html"
+  },
+  {
     "text": "Kole North",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-kole-constituency-kole-north.html"
   },
   {
     "text": "Kole South",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-kole-constituency-kole-south.html"
+  },
+  {
+    "text": "Lira",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-lira.html"
   },
   {
     "text": "Erute North",
@@ -8762,6 +8726,10 @@ callback([
   {
     "text": "Otuke County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-otuke-constituency-otuke-county.html"
+  },
+  {
+    "text": "Oyam",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-oyam.html"
   },
   {
     "text": "Oyam North",
@@ -8786,6 +8754,10 @@ callback([
   {
     "text": "Adjumani West",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-adjumani-constituency-adjumani-west.html"
+  },
+  {
+    "text": "Arua",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua.html"
   },
   {
     "text": "Arua Municipality",
@@ -8816,6 +8788,10 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua-constituency-vurra-county.html"
   },
   {
+    "text": "Koboko",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-koboko.html"
+  },
+  {
     "text": "Koboko County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-koboko-constituency-koboko-county.html"
   },
@@ -8828,12 +8804,20 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-koboko-constituency-koboko-north.html"
   },
   {
+    "text": "Maracha",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-maracha.html"
+  },
+  {
     "text": "Maracha County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-maracha-constituency-maracha-county.html"
   },
   {
     "text": "Maracha East",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-maracha-constituency-maracha-east.html"
+  },
+  {
+    "text": "Moyo",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-moyo.html"
   },
   {
     "text": "Obongi County",
@@ -8872,88 +8856,16 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-yumbe-constituency-aringa-south.html"
   },
   {
+    "text": "Zombo",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-zombo.html"
+  },
+  {
     "text": "Okoro County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-zombo-constituency-okoro-county.html"
   },
   {
     "text": "Ora County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-zombo-constituency-ora-county.html"
-  },
-  {
-    "text": "Gulu",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-acholi-district-gulu.html"
-  },
-  {
-    "text": "Kitgum",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-acholi-district-kitgum.html"
-  },
-  {
-    "text": "Lamwo",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-acholi-district-lamwo.html"
-  },
-  {
-    "text": "Kaabong",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-karamoja-district-kaabong.html"
-  },
-  {
-    "text": "Kotido",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-karamoja-district-kotido.html"
-  },
-  {
-    "text": "Moroto",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-karamoja-district-moroto.html"
-  },
-  {
-    "text": "Nakapiripirit",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-karamoja-district-nakapiripirit.html"
-  },
-  {
-    "text": "Napak",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-karamoja-district-napak.html"
-  },
-  {
-    "text": "Agago",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-lango-district-agago.html"
-  },
-  {
-    "text": "Alebtong",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-lango-district-alebtong.html"
-  },
-  {
-    "text": "Apac",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-lango-district-apac.html"
-  },
-  {
-    "text": "Kole",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-lango-district-kole.html"
-  },
-  {
-    "text": "Lira",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-lango-district-lira.html"
-  },
-  {
-    "text": "Oyam",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-lango-district-oyam.html"
-  },
-  {
-    "text": "Arua",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-west-nile-district-arua.html"
-  },
-  {
-    "text": "Koboko",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-west-nile-district-koboko.html"
-  },
-  {
-    "text": "Maracha",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-west-nile-district-maracha.html"
-  },
-  {
-    "text": "Moyo",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-west-nile-district-moyo.html"
-  },
-  {
-    "text": "Zombo",
-    "href": "/areas/ocd-division-country-ug-region-nothern-subregion-west-nile-district-zombo.html"
   },
   {
     "text": "Western",
