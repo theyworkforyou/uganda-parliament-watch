@@ -9,7 +9,7 @@ layout: default
   <div class="page-header">
     <p>
     {% if person.current_membership.post %}
-    Post: <a href="{{ person.current_membership.post.url | prepend: site.baseurl }}">{{ person.current_membership.post.label }}</a>{% if person.current_membership.area %} for {{ person.current_membership.area.name }}{% endif %}.
+    <a href="{{ person.current_membership.post.url | prepend: site.baseurl }}">{{ person.current_membership.post.label }}</a>{% if person.current_membership.area %} for {{ person.current_membership.area.name }}{% endif %}.
     {% elsif person.current_membership.area %}
     Current MP for {{ person.current_membership.area.name }}.
     {% endif %}
