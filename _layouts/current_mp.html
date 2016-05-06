@@ -11,6 +11,9 @@ layout: default
     {% if person.current_membership.area %}
     Current MP for {{ person.current_membership.area.name }}.
     {% endif %}
+    {% if person.current_membership.post %}
+    Post: <a href="{{ person.current_membership.post.url }}">{{ person.current_membership.post.label }}</a>.
+    {% endif %}
     {% if person.current_membership.party %}
     Party: {{ person.current_membership.party.name }}.
     {% endif %}
