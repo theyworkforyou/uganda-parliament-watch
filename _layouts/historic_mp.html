@@ -11,7 +11,7 @@ layout: default
     {% for membership in person.memberships %}
     <p>
     {% if membership.post %}
-    Post: <a href="{{ membership.post.url | prepend: site.baseurl }}">{{ membership.post.label }}</a>{% if membership.area %} for {{ membership.area.name }}{% endif %}.
+    <a href="{{ membership.post.url | prepend: site.baseurl }}">{{ membership.post.label }}</a>{% if membership.area %} for {{ membership.area.name }}{% endif %}.
     {% elsif membership.area %}
     MP for {{ membership.area.name }}.
     {% endif %}
