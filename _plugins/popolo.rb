@@ -100,7 +100,7 @@ Jekyll::Popolo.process do |site, popolo|
   districts = memberships_by_district.map do |id, memberships|
     current_memberships, historic_memberships = memberships.partition { |m| m['legislative_period_id'] == 'term/10' }
     {
-      'id' => id,
+      'id' => id.sub('ocd-division/country:ug/', '').gsub(/\w+\:/, ''),
       'title' => ocd_mapping[id] || id,
       'layout' => 'districts',
       'name' => ocd_mapping[id] || id,
