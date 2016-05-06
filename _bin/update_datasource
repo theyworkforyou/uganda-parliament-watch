@@ -1,12 +1,10 @@
 #!/usr/bin/env ruby
-require 'json'
-require 'open-uri'
+require 'bundler/setup'
+require 'everypolitician'
 
-countries = JSON.parse(open('https://github.com/everypolitician/everypolitician-data/raw/master/countries.json').read, symbolize_names: true)
-uganda = countries.find { |c| c[:slug] == 'Uganda' }
-parliament = uganda[:legislatures].first
+parliament = Everypolitician.legislature('Uganda', 'Parliament')
 
-File.write('EVERYPOLITICIAN_DATASOURCE', parliament[:popolo_url])
+File.write('EVERYPOLITICIAN_DATASOURCE', parliament.raw_data[:popolo_url])
 
 system('git add EVERYPOLITICIAN_DATASOURCE')
 system('git commit -m "Update EVERYPOLITICIAN_DATASOURCE"')
