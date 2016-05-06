@@ -2,7 +2,22 @@
 layout: default
 ---
 
-{% for membership in page.memberships %}
+<div class="page-header">
+  <h3>Current members</h3>
+</div>
+
+{% for membership in page.current_memberships %}
+
+{% include person_row.html %}
+
+{% endfor %}
+
+
+<div class="page-header">
+  <h3>Former members</h3>
+</div>
+
+{% for membership in page.historic_memberships %}
 
 {% include person_row.html %}
 
