@@ -6,18 +6,6 @@ layout: default
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="page-header">
-    <p>
-    {% if person.current_membership.post %}
-    <a href="{{ person.current_membership.post.url | prepend: site.baseurl }}">{{ person.current_membership.post.label }}</a>{% if person.current_membership.area %} for {{ person.current_membership.area.name }}{% endif %}.
-    {% elsif person.current_membership.area %}
-    Current MP for {{ person.current_membership.area.name }}.
-    {% endif %}
-    {% if person.current_membership.party %}
-    Party: {{ person.current_membership.party.name }}.
-    {% endif %}
-    </p>
-  </div>
 
   {% include person_profile.html %}
 </div>
