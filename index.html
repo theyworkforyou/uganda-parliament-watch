@@ -2,44 +2,48 @@
 layout: default
 title: Home
 ---
-
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class="row">
 
+<div class="portlet">
 
-  <div class="col-sm-6">
+        <div class="portlet-header">
+          <h3>
+          <i class="fa fa-tasks"></i>
+          Get to know your representatives in Parliament
+        </h3>
+
+      </div> <!-- /.portlet-header -->
+
+      <div class="portlet-content">
+
+  <div class="col-sm-8">
+  <div class="embed-container">
+    <iframe src="https://player.vimeo.com/video/164415074?autoplay=0&loop=1&title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  </div>
+  <div class="col-md-4">
+
     <div class="portlet">
       <div class="portlet-header">
-        <h3>Districts</h3>
+        <h3>Find MP by District</h3>
       </div>
 
       <div class="portlet-content">
-        {% for district in site.districts %}
         <div class="district">
-          <a href="{{ district.url | prepend: site.baseurl }}">{{ district.name }}</a>
+          <select id="select2" class="form-control" placeholder="Start typing name of MP" onchange="window.location='{{ site.baseurl }}'+this.value">
+            <option value="">Select a district</option>
+            {% for district in site.districts %}
+          <option value="{{ district.url }}">{{ district.name }}</option>
         </div>
         {% endfor %}
+      </select>
       </div>
     </div>
   </div>
 
-  <div class="col-sm-6">
     <div class="portlet">
       <div class="portlet-header">
-        <h3>Terms</h3>
-      </div>
-
-      <div class="portlet-content">
-        {% for term in site.events %}
-        <div class="term">
-          <a href="{{ term.url | prepend: site.baseurl }}">{{ term.name }}</a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-
-    <div class="portlet">
-      <div class="portlet-header">
-        <h3>Posts</h3>
+        <h3>Find MPs by Post</h3>
       </div>
 
       <div class="portlet-content">
@@ -51,7 +55,22 @@ title: Home
       </div>
     </div>
 
-    {% jekyll_search_box %}
-  </div>
+    <div class="portlet">
+      <div class="portlet-header">
+        <h3>Find MPs by Tenure</h3>
+      </div>
 
+      <div class="portlet-content">
+        {% for term in site.events %}
+        <div class="term">
+          <a href="{{ term.url | prepend: site.baseurl }}">{{ term.name }}</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
 </div>
+</div>
+
+<script type="text/javascript">
+  $('select').select2();
+</script>
