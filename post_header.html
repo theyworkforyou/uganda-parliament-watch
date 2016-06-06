@@ -1,0 +1,36 @@
+{% if page.previous_term_posts or page.next_term_posts %}
+<nav>
+  <ul class="pager">
+
+    {% if page.previous_term_posts %}
+    {% assign previous_term_membership = page.previous_term_posts.memberships | first %}
+    {% assign previous_term = previous_term_membership.legislative_period %}
+    <li class="previous">
+      <a href="{{ page.previous_term_posts.url | prepend: site.baseurl }}"><span aria-hidden="true">&larr;</span> {{ previous_term.name }}</a>
+    </li>
+    {% endif %}
+
+    {% if page.next_term_posts %}
+    {% assign next_term_membership = page.next_term_posts.memberships | first %}
+    {% assign next_term = next_term_membership.legislative_period %}
+    <li class="next">
+      <a href="{{ page.next_term_posts.url | prepend: site.baseurl }}">{{ next_term.name }} <span aria-hidden="true">&rarr;</span></a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}
+
+{% assign current_term_membership = page.memberships | first %}
+{% assign current_term = current_term_membership.legislative_period %}
+
+<div class="page-header">
+  <h2>{{ current_term.name }}
+    {% if current_term.start_date or current_term.end_date %}
+    <small>
+      {% if current_term.start_date %}Sworn in : {{ current_term.start_date | date_to_long_string }}{% endif %} <strong>|</strong>
+      {% if current_term.end_date %} End of tenure: {{ current_term.end_date | date_to_long_string }}{% endif %}
+    </small>
+    {% endif %}
+  </h2>
+</div>
