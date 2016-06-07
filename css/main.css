@@ -5839,7 +5839,7 @@ button.close {
 * Author: Jumpstart Themes
 *
 * [Table of Contents]
-* 
+*
 *   ==Buttons
 *   ==Dropdown
 *   ==Badges
@@ -5854,7 +5854,7 @@ button.close {
 *   ==Forms
 *   ==Labels
 *   ==Text
-* 
+*
 *   ==Error Styles
 *   ==Navbar
 *   ==Mainbar
@@ -5892,7 +5892,7 @@ button.close {
 /* ==Body */
 /* ----------------------------------------------- */
 body {
-  font: 400 14px/1.6 'Open Sans', Verdana, Helvetica, sans-serif;
+  font: 400 14px/1.6 "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #FFF; }
 
 @media (min-width: 768px) {
@@ -5905,7 +5905,7 @@ h4,
 h5,
 h6 {
   margin-top: 0;
-  font-family: Oswald;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400; }
 
 /* ==Buttons */
