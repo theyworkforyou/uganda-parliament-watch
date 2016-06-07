@@ -2701,11 +2701,11 @@ callback([
   },
   {
     "text": "Amudat",
-    "href": "/district/eastern-teso-amudat/"
+    "href": "/district/eastern-karamoja-amudat/"
   },
   {
     "text": "Amudat",
-    "href": "/district/eastern-karamoja-amudat/"
+    "href": "/district/eastern-teso-amudat/"
   },
   {
     "text": "Amuria",
@@ -3162,558 +3162,6 @@ callback([
   {
     "text": "Zombo",
     "href": "/district/northern-west-nile-zombo/"
-  },
-  {
-    "text": "area/amuru_district",
-    "href": "/district/area-amuru-district/"
-  },
-  {
-    "text": "area/aringa_county",
-    "href": "/district/area-aringa-county/"
-  },
-  {
-    "text": "area/bbaale_county",
-    "href": "/district/area-bbaale-county/"
-  },
-  {
-    "text": "area/bubulo_county_east",
-    "href": "/district/area-bubulo-county-east/"
-  },
-  {
-    "text": "area/bubulo_county_west",
-    "href": "/district/area-bubulo-county-west/"
-  },
-  {
-    "text": "area/budadiri_county_east",
-    "href": "/district/area-budadiri-county-east/"
-  },
-  {
-    "text": "area/budadiri_county_west",
-    "href": "/district/area-budadiri-county-west/"
-  },
-  {
-    "text": "area/budiope_county_east",
-    "href": "/district/area-budiope-county-east/"
-  },
-  {
-    "text": "area/budiope_county_west",
-    "href": "/district/area-budiope-county-west/"
-  },
-  {
-    "text": "area/bufumbira_county_east",
-    "href": "/district/area-bufumbira-county-east/"
-  },
-  {
-    "text": "area/bufumbira_county_north",
-    "href": "/district/area-bufumbira-county-north/"
-  },
-  {
-    "text": "area/bufumbira_county_south",
-    "href": "/district/area-bufumbira-county-south/"
-  },
-  {
-    "text": "area/bugabula_county_north",
-    "href": "/district/area-bugabula-county-north/"
-  },
-  {
-    "text": "area/bugabula_county_south",
-    "href": "/district/area-bugabula-county-south/"
-  },
-  {
-    "text": "area/bugahya_county",
-    "href": "/district/area-bugahya-county/"
-  },
-  {
-    "text": "area/bugangaizi_county_east",
-    "href": "/district/area-bugangaizi-county-east/"
-  },
-  {
-    "text": "area/bugangaizi_county_west",
-    "href": "/district/area-bugangaizi-county-west/"
-  },
-  {
-    "text": "area/bughendera",
-    "href": "/district/area-bughendera/"
-  },
-  {
-    "text": "area/buikwe_county_north",
-    "href": "/district/area-buikwe-county-north/"
-  },
-  {
-    "text": "area/buikwe_county_south",
-    "href": "/district/area-buikwe-county-south/"
-  },
-  {
-    "text": "area/buikwe_county_west",
-    "href": "/district/area-buikwe-county-west/"
-  },
-  {
-    "text": "area/bujumba_county",
-    "href": "/district/area-bujumba-county/"
-  },
-  {
-    "text": "area/bukomansimbi_county",
-    "href": "/district/area-bukomansimbi-county/"
-  },
-  {
-    "text": "area/bukonjo_county_east",
-    "href": "/district/area-bukonjo-county-east/"
-  },
-  {
-    "text": "area/bukonjo_county_west",
-    "href": "/district/area-bukonjo-county-west/"
-  },
-  {
-    "text": "area/bukooli_county_central",
-    "href": "/district/area-bukooli-county-central/"
-  },
-  {
-    "text": "area/bukooli_county_north",
-    "href": "/district/area-bukooli-county-north/"
-  },
-  {
-    "text": "area/bukooli_county_south",
-    "href": "/district/area-bukooli-county-south/"
-  },
-  {
-    "text": "area/bukooli_islands_county",
-    "href": "/district/area-bukooli-islands-county/"
-  },
-  {
-    "text": "area/bukoto_county_central",
-    "href": "/district/area-bukoto-county-central/"
-  },
-  {
-    "text": "area/bukoto_county_east",
-    "href": "/district/area-bukoto-county-east/"
-  },
-  {
-    "text": "area/bukoto_county_mid-west",
-    "href": "/district/area-bukoto-county-mid-west/"
-  },
-  {
-    "text": "area/bukoto_county_south",
-    "href": "/district/area-bukoto-county-south/"
-  },
-  {
-    "text": "area/bukoto_county_west",
-    "href": "/district/area-bukoto-county-west/"
-  },
-  {
-    "text": "area/bungokho_county_north",
-    "href": "/district/area-bungokho-county-north/"
-  },
-  {
-    "text": "area/bungokho_county_south",
-    "href": "/district/area-bungokho-county-south/"
-  },
-  {
-    "text": "area/bunya_county_east",
-    "href": "/district/area-bunya-county-east/"
-  },
-  {
-    "text": "area/bunya_county_south",
-    "href": "/district/area-bunya-county-south/"
-  },
-  {
-    "text": "area/bunya_county_west",
-    "href": "/district/area-bunya-county-west/"
-  },
-  {
-    "text": "area/bunyangabu_county",
-    "href": "/district/area-bunyangabu-county/"
-  },
-  {
-    "text": "area/bunyaruguru_county",
-    "href": "/district/area-bunyaruguru-county/"
-  },
-  {
-    "text": "area/bunyole_county_east",
-    "href": "/district/area-bunyole-county-east/"
-  },
-  {
-    "text": "area/bunyole_county_west",
-    "href": "/district/area-bunyole-county-west/"
-  },
-  {
-    "text": "area/buruuli_county",
-    "href": "/district/area-buruuli-county/"
-  },
-  {
-    "text": "area/busiiro_county_east",
-    "href": "/district/area-busiiro-county-east/"
-  },
-  {
-    "text": "area/busiiro_county_north",
-    "href": "/district/area-busiiro-county-north/"
-  },
-  {
-    "text": "area/busiiro_county_south",
-    "href": "/district/area-busiiro-county-south/"
-  },
-  {
-    "text": "area/busongora_county_north",
-    "href": "/district/area-busongora-county-north/"
-  },
-  {
-    "text": "area/busongora_county_south",
-    "href": "/district/area-busongora-county-south/"
-  },
-  {
-    "text": "area/busujju_county",
-    "href": "/district/area-busujju-county/"
-  },
-  {
-    "text": "area/buvuma_islands_county",
-    "href": "/district/area-buvuma-islands-county/"
-  },
-  {
-    "text": "area/buyaga_county_east",
-    "href": "/district/area-buyaga-county-east/"
-  },
-  {
-    "text": "area/buyaga_county_west",
-    "href": "/district/area-buyaga-county-west/"
-  },
-  {
-    "text": "area/buyanja_county",
-    "href": "/district/area-buyanja-county/"
-  },
-  {
-    "text": "area/buzaaya_county",
-    "href": "/district/area-buzaaya-county/"
-  },
-  {
-    "text": "area/central_division",
-    "href": "/district/area-central-division/"
-  },
-  {
-    "text": "area/chua_county",
-    "href": "/district/area-chua-county/"
-  },
-  {
-    "text": "area/dodoth_county_east",
-    "href": "/district/area-dodoth-county-east/"
-  },
-  {
-    "text": "area/dodoth_county_west",
-    "href": "/district/area-dodoth-county-west/"
-  },
-  {
-    "text": "area/dokolo_county",
-    "href": "/district/area-dokolo-county/"
-  },
-  {
-    "text": "area/east_moyo_county",
-    "href": "/district/area-east-moyo-county/"
-  },
-  {
-    "text": "area/erute_county_north",
-    "href": "/district/area-erute-county-north/"
-  },
-  {
-    "text": "area/erute_county_south",
-    "href": "/district/area-erute-county-south/"
-  },
-  {
-    "text": "area/fort_portal_municipaity",
-    "href": "/district/area-fort-portal-municipaity/"
-  },
-  {
-    "text": "area/gomba_county",
-    "href": "/district/area-gomba-county/"
-  },
-  {
-    "text": "area/ibanda_county_north",
-    "href": "/district/area-ibanda-county-north/"
-  },
-  {
-    "text": "area/ibanda_county_south",
-    "href": "/district/area-ibanda-county-south/"
-  },
-  {
-    "text": "area/igara_county_east",
-    "href": "/district/area-igara-county-east/"
-  },
-  {
-    "text": "area/igara_county_west",
-    "href": "/district/area-igara-county-west/"
-  },
-  {
-    "text": "area/iki-iki_county",
-    "href": "/district/area-iki-iki-county/"
-  },
-  {
-    "text": "area/isingiro_county_north",
-    "href": "/district/area-isingiro-county-north/"
-  },
-  {
-    "text": "area/isingiro_county_south",
-    "href": "/district/area-isingiro-county-south/"
-  },
-  {
-    "text": "area/jinja_municipality_west",
-    "href": "/district/area-jinja-municipality-west/"
-  },
-  {
-    "text": "area/kalaki_county",
-    "href": "/district/area-kalaki-county/"
-  },
-  {
-    "text": "area/kalungu_county_east",
-    "href": "/district/area-kalungu-county-east/"
-  },
-  {
-    "text": "area/kalungu_county_west",
-    "href": "/district/area-kalungu-county-west/"
-  },
-  {
-    "text": "area/kashari_county",
-    "href": "/district/area-kashari-county/"
-  },
-  {
-    "text": "area/kassanda_county_north",
-    "href": "/district/area-kassanda-county-north/"
-  },
-  {
-    "text": "area/kassanda_county_south",
-    "href": "/district/area-kassanda-county-south/"
-  },
-  {
-    "text": "area/katikamu_county_north",
-    "href": "/district/area-katikamu-county-north/"
-  },
-  {
-    "text": "area/katikamu_county_south",
-    "href": "/district/area-katikamu-county-south/"
-  },
-  {
-    "text": "area/kawempe_division_north",
-    "href": "/district/area-kawempe-division-north/"
-  },
-  {
-    "text": "area/kawempe_division_south",
-    "href": "/district/area-kawempe-division-south/"
-  },
-  {
-    "text": "area/kibanda_county",
-    "href": "/district/area-kibanda-county/"
-  },
-  {
-    "text": "area/kiboga_county_east",
-    "href": "/district/area-kiboga-county-east/"
-  },
-  {
-    "text": "area/kiboga_county_west",
-    "href": "/district/area-kiboga-county-west/"
-  },
-  {
-    "text": "area/kibuku_county",
-    "href": "/district/area-kibuku-county/"
-  },
-  {
-    "text": "area/kigulu_county_north",
-    "href": "/district/area-kigulu-county-north/"
-  },
-  {
-    "text": "area/kigulu_county_south",
-    "href": "/district/area-kigulu-county-south/"
-  },
-  {
-    "text": "area/kilak_county",
-    "href": "/district/area-kilak-county/"
-  },
-  {
-    "text": "area/kinkiizi_county_east",
-    "href": "/district/area-kinkiizi-county-east/"
-  },
-  {
-    "text": "area/kinkiizi_county_west",
-    "href": "/district/area-kinkiizi-county-west/"
-  },
-  {
-    "text": "area/kole_county",
-    "href": "/district/area-kole-county/"
-  },
-  {
-    "text": "area/kyadondo_county_east",
-    "href": "/district/area-kyadondo-county-east/"
-  },
-  {
-    "text": "area/kyadondo_county_north",
-    "href": "/district/area-kyadondo-county-north/"
-  },
-  {
-    "text": "area/kyadondo_county_south",
-    "href": "/district/area-kyadondo-county-south/"
-  },
-  {
-    "text": "area/kyaka_county",
-    "href": "/district/area-kyaka-county/"
-  },
-  {
-    "text": "area/luuka_county",
-    "href": "/district/area-luuka-county/"
-  },
-  {
-    "text": "area/lwemiyaga_county",
-    "href": "/district/area-lwemiyaga-county/"
-  },
-  {
-    "text": "area/madi-okollo_county",
-    "href": "/district/area-madi-okollo-county/"
-  },
-  {
-    "text": "area/makindye_division_east",
-    "href": "/district/area-makindye-division-east/"
-  },
-  {
-    "text": "area/makindye_division_west",
-    "href": "/district/area-makindye-division-west/"
-  },
-  {
-    "text": "area/matheniko_county",
-    "href": "/district/area-matheniko-county/"
-  },
-  {
-    "text": "area/mawogola_county",
-    "href": "/district/area-mawogola-county/"
-  },
-  {
-    "text": "area/mawokota_county_north",
-    "href": "/district/area-mawokota-county-north/"
-  },
-  {
-    "text": "area/mawokota_county_south",
-    "href": "/district/area-mawokota-county-south/"
-  },
-  {
-    "text": "area/mityana_county_north",
-    "href": "/district/area-mityana-county-north/"
-  },
-  {
-    "text": "area/mityana_county_south",
-    "href": "/district/area-mityana-county-south/"
-  },
-  {
-    "text": "area/mukono_county_north",
-    "href": "/district/area-mukono-county-north/"
-  },
-  {
-    "text": "area/mwenge_county_north",
-    "href": "/district/area-mwenge-county-north/"
-  },
-  {
-    "text": "area/mwenge_county_south",
-    "href": "/district/area-mwenge-county-south/"
-  },
-  {
-    "text": "area/nakaseke_county_north",
-    "href": "/district/area-nakaseke-county-north/"
-  },
-  {
-    "text": "area/nakaseke_county_south",
-    "href": "/district/area-nakaseke-county-south/"
-  },
-  {
-    "text": "area/nakifuma_county",
-    "href": "/district/area-nakifuma-county/"
-  },
-  {
-    "text": "area/ndorwa_county_east",
-    "href": "/district/area-ndorwa-county-east/"
-  },
-  {
-    "text": "area/ndorwa_county_west",
-    "href": "/district/area-ndorwa-county-west/"
-  },
-  {
-    "text": "area/ntenjeru_county_north",
-    "href": "/district/area-ntenjeru-county-north/"
-  },
-  {
-    "text": "area/ntenjeru_county_south",
-    "href": "/district/area-ntenjeru-county-south/"
-  },
-  {
-    "text": "area/ntugamo_municipality",
-    "href": "/district/area-ntugamo-municipality/"
-  },
-  {
-    "text": "area/oyam_county_north",
-    "href": "/district/area-oyam-county-north/"
-  },
-  {
-    "text": "area/oyam_county_south",
-    "href": "/district/area-oyam-county-south/"
-  },
-  {
-    "text": "area/rubaga_division_north",
-    "href": "/district/area-rubaga-division-north/"
-  },
-  {
-    "text": "area/rubaga_division_south",
-    "href": "/district/area-rubaga-division-south/"
-  },
-  {
-    "text": "area/rubanda_county_east",
-    "href": "/district/area-rubanda-county-east/"
-  },
-  {
-    "text": "area/rubanda_county_west",
-    "href": "/district/area-rubanda-county-west/"
-  },
-  {
-    "text": "area/ruhaama_county",
-    "href": "/district/area-ruhaama-county/"
-  },
-  {
-    "text": "area/ruhindi_county",
-    "href": "/district/area-ruhindi-county/"
-  },
-  {
-    "text": "area/samia-bugwe_county_north",
-    "href": "/district/area-samia-bugwe-county-north/"
-  },
-  {
-    "text": "area/samia-bugwe_county_south",
-    "href": "/district/area-samia-bugwe-county-south/"
-  },
-  {
-    "text": "area/sheema_county_north",
-    "href": "/district/area-sheema-county-north/"
-  },
-  {
-    "text": "area/sheema_county_south",
-    "href": "/district/area-sheema-county-south/"
-  },
-  {
-    "text": "area/terego_county",
-    "href": "/district/area-terego-county/"
-  },
-  {
-    "text": "area/tororo_county",
-    "href": "/district/area-tororo-county/"
-  },
-  {
-    "text": "area/upe_county",
-    "href": "/district/area-upe-county/"
-  },
-  {
-    "text": "area/west_budama_county_north",
-    "href": "/district/area-west-budama-county-north/"
-  },
-  {
-    "text": "area/west_budama_county_south",
-    "href": "/district/area-west-budama-county-south/"
-  },
-  {
-    "text": "area/west_moyo_county",
-    "href": "/district/area-west-moyo-county/"
-  },
-  {
-    "text": "area/zombo_district",
-    "href": "/district/area-zombo-district/"
   },
   {
     "text": "ocd-division/country:ug/region:western/subregion:bunyoro/district:kiryadongo",
@@ -7092,579 +6540,31 @@ callback([
     "href": "/memberships/.md"
   },
   {
-    "text": "Amuru District",
-    "href": "/areas/area-amuru-district.html"
-  },
-  {
-    "text": "Aringa County",
-    "href": "/areas/area-aringa-county.html"
-  },
-  {
-    "text": "Bbaale County",
-    "href": "/areas/area-bbaale-county.html"
-  },
-  {
-    "text": "Bubulo County East",
-    "href": "/areas/area-bubulo-county-east.html"
-  },
-  {
-    "text": "Bubulo County West",
-    "href": "/areas/area-bubulo-county-west.html"
-  },
-  {
-    "text": "Budadiri County East",
-    "href": "/areas/area-budadiri-county-east.html"
-  },
-  {
-    "text": "Budadiri County West",
-    "href": "/areas/area-budadiri-county-west.html"
-  },
-  {
-    "text": "Budiope County East",
-    "href": "/areas/area-budiope-county-east.html"
-  },
-  {
-    "text": "Budiope County West",
-    "href": "/areas/area-budiope-county-west.html"
-  },
-  {
-    "text": "Bufumbira County East",
-    "href": "/areas/area-bufumbira-county-east.html"
-  },
-  {
-    "text": "Bufumbira County North",
-    "href": "/areas/area-bufumbira-county-north.html"
-  },
-  {
-    "text": "Bufumbira County South",
-    "href": "/areas/area-bufumbira-county-south.html"
-  },
-  {
-    "text": "Bugabula County North",
-    "href": "/areas/area-bugabula-county-north.html"
-  },
-  {
-    "text": "Bugabula County South",
-    "href": "/areas/area-bugabula-county-south.html"
-  },
-  {
-    "text": "Bugahya County",
-    "href": "/areas/area-bugahya-county.html"
-  },
-  {
-    "text": "Bugangaizi County East",
-    "href": "/areas/area-bugangaizi-county-east.html"
-  },
-  {
-    "text": "Bugangaizi County West",
-    "href": "/areas/area-bugangaizi-county-west.html"
-  },
-  {
-    "text": "Bughendera",
-    "href": "/areas/area-bughendera.html"
-  },
-  {
-    "text": "Buikwe County North",
-    "href": "/areas/area-buikwe-county-north.html"
-  },
-  {
-    "text": "Buikwe County South",
-    "href": "/areas/area-buikwe-county-south.html"
-  },
-  {
-    "text": "Buikwe County West",
-    "href": "/areas/area-buikwe-county-west.html"
-  },
-  {
-    "text": "Bujumba County",
-    "href": "/areas/area-bujumba-county.html"
-  },
-  {
-    "text": "Bukomansimbi County",
-    "href": "/areas/area-bukomansimbi-county.html"
-  },
-  {
-    "text": "Bukonjo County East",
-    "href": "/areas/area-bukonjo-county-east.html"
-  },
-  {
-    "text": "Bukonjo County West",
-    "href": "/areas/area-bukonjo-county-west.html"
-  },
-  {
-    "text": "Bukooli County Central",
-    "href": "/areas/area-bukooli-county-central.html"
-  },
-  {
-    "text": "Bukooli County North",
-    "href": "/areas/area-bukooli-county-north.html"
-  },
-  {
-    "text": "Bukooli County South",
-    "href": "/areas/area-bukooli-county-south.html"
-  },
-  {
-    "text": "Bukooli Islands County",
-    "href": "/areas/area-bukooli-islands-county.html"
-  },
-  {
-    "text": "Bukoto County Central",
-    "href": "/areas/area-bukoto-county-central.html"
-  },
-  {
-    "text": "Bukoto County East",
-    "href": "/areas/area-bukoto-county-east.html"
-  },
-  {
-    "text": "Bukoto County Mid-West",
-    "href": "/areas/area-bukoto-county-mid-west.html"
-  },
-  {
-    "text": "Bukoto County South",
-    "href": "/areas/area-bukoto-county-south.html"
-  },
-  {
-    "text": "Bukoto County West",
-    "href": "/areas/area-bukoto-county-west.html"
-  },
-  {
-    "text": "Bungokho County North",
-    "href": "/areas/area-bungokho-county-north.html"
-  },
-  {
-    "text": "Bungokho County South",
-    "href": "/areas/area-bungokho-county-south.html"
-  },
-  {
-    "text": "Bunya County East",
-    "href": "/areas/area-bunya-county-east.html"
-  },
-  {
-    "text": "Bunya County South",
-    "href": "/areas/area-bunya-county-south.html"
-  },
-  {
-    "text": "Bunya County West",
-    "href": "/areas/area-bunya-county-west.html"
-  },
-  {
-    "text": "Bunyangabu County",
-    "href": "/areas/area-bunyangabu-county.html"
-  },
-  {
-    "text": "Bunyaruguru County",
-    "href": "/areas/area-bunyaruguru-county.html"
-  },
-  {
-    "text": "Bunyole County East",
-    "href": "/areas/area-bunyole-county-east.html"
-  },
-  {
-    "text": "Bunyole County West",
-    "href": "/areas/area-bunyole-county-west.html"
-  },
-  {
-    "text": "Buruuli County",
-    "href": "/areas/area-buruuli-county.html"
-  },
-  {
-    "text": "Busiiro County East",
-    "href": "/areas/area-busiiro-county-east.html"
-  },
-  {
-    "text": "Busiiro County North",
-    "href": "/areas/area-busiiro-county-north.html"
-  },
-  {
-    "text": "Busiiro County South",
-    "href": "/areas/area-busiiro-county-south.html"
-  },
-  {
-    "text": "Busongora County North",
-    "href": "/areas/area-busongora-county-north.html"
-  },
-  {
-    "text": "Busongora County South",
-    "href": "/areas/area-busongora-county-south.html"
-  },
-  {
-    "text": "Busujju County",
-    "href": "/areas/area-busujju-county.html"
-  },
-  {
-    "text": "Buvuma Islands County",
-    "href": "/areas/area-buvuma-islands-county.html"
-  },
-  {
-    "text": "Buyaga County East",
-    "href": "/areas/area-buyaga-county-east.html"
-  },
-  {
-    "text": "Buyaga County West",
-    "href": "/areas/area-buyaga-county-west.html"
-  },
-  {
-    "text": "Buyanja County",
-    "href": "/areas/area-buyanja-county.html"
-  },
-  {
-    "text": "Buzaaya County",
-    "href": "/areas/area-buzaaya-county.html"
-  },
-  {
     "text": "Central Division",
-    "href": "/areas/area-central-division.html"
-  },
-  {
-    "text": "Chua County",
-    "href": "/areas/area-chua-county.html"
-  },
-  {
-    "text": "Dodoth County East",
-    "href": "/areas/area-dodoth-county-east.html"
-  },
-  {
-    "text": "Dodoth County West",
-    "href": "/areas/area-dodoth-county-west.html"
-  },
-  {
-    "text": "Dokolo County",
-    "href": "/areas/area-dokolo-county.html"
-  },
-  {
-    "text": "East Moyo County",
-    "href": "/areas/area-east-moyo-county.html"
-  },
-  {
-    "text": "Erute County North",
-    "href": "/areas/area-erute-county-north.html"
-  },
-  {
-    "text": "Erute County South",
-    "href": "/areas/area-erute-county-south.html"
-  },
-  {
-    "text": "Fort Portal Municipaity",
-    "href": "/areas/area-fort-portal-municipaity.html"
-  },
-  {
-    "text": "Gomba County",
-    "href": "/areas/area-gomba-county.html"
-  },
-  {
-    "text": "Ibanda County North",
-    "href": "/areas/area-ibanda-county-north.html"
-  },
-  {
-    "text": "Ibanda County South",
-    "href": "/areas/area-ibanda-county-south.html"
-  },
-  {
-    "text": "Igara County East",
-    "href": "/areas/area-igara-county-east.html"
-  },
-  {
-    "text": "Igara County West",
-    "href": "/areas/area-igara-county-west.html"
-  },
-  {
-    "text": "Iki-Iki County",
-    "href": "/areas/area-iki-iki-county.html"
-  },
-  {
-    "text": "Isingiro County North",
-    "href": "/areas/area-isingiro-county-north.html"
-  },
-  {
-    "text": "Isingiro County South",
-    "href": "/areas/area-isingiro-county-south.html"
-  },
-  {
-    "text": "Jinja Municipality West",
-    "href": "/areas/area-jinja-municipality-west.html"
-  },
-  {
-    "text": "Kalaki County",
-    "href": "/areas/area-kalaki-county.html"
-  },
-  {
-    "text": "Kalungu County East",
-    "href": "/areas/area-kalungu-county-east.html"
-  },
-  {
-    "text": "Kalungu County West",
-    "href": "/areas/area-kalungu-county-west.html"
-  },
-  {
-    "text": "Kashari County",
-    "href": "/areas/area-kashari-county.html"
-  },
-  {
-    "text": "Kassanda County North",
-    "href": "/areas/area-kassanda-county-north.html"
-  },
-  {
-    "text": "Kassanda County South",
-    "href": "/areas/area-kassanda-county-south.html"
-  },
-  {
-    "text": "Katikamu County North",
-    "href": "/areas/area-katikamu-county-north.html"
-  },
-  {
-    "text": "Katikamu County South",
-    "href": "/areas/area-katikamu-county-south.html"
-  },
-  {
-    "text": "Kawempe Division North",
-    "href": "/areas/area-kawempe-division-north.html"
-  },
-  {
-    "text": "Kawempe Division South",
-    "href": "/areas/area-kawempe-division-south.html"
-  },
-  {
-    "text": "Kibanda County",
-    "href": "/areas/area-kibanda-county.html"
-  },
-  {
-    "text": "Kiboga County East",
-    "href": "/areas/area-kiboga-county-east.html"
-  },
-  {
-    "text": "Kiboga County West",
-    "href": "/areas/area-kiboga-county-west.html"
-  },
-  {
-    "text": "Kibuku County",
-    "href": "/areas/area-kibuku-county.html"
-  },
-  {
-    "text": "Kigulu County North",
-    "href": "/areas/area-kigulu-county-north.html"
-  },
-  {
-    "text": "Kigulu County South",
-    "href": "/areas/area-kigulu-county-south.html"
-  },
-  {
-    "text": "Kilak County",
-    "href": "/areas/area-kilak-county.html"
-  },
-  {
-    "text": "Kinkiizi County East",
-    "href": "/areas/area-kinkiizi-county-east.html"
-  },
-  {
-    "text": "Kinkiizi County West",
-    "href": "/areas/area-kinkiizi-county-west.html"
-  },
-  {
-    "text": "Kole County",
-    "href": "/areas/area-kole-county.html"
-  },
-  {
-    "text": "Kyadondo County East",
-    "href": "/areas/area-kyadondo-county-east.html"
-  },
-  {
-    "text": "Kyadondo County North",
-    "href": "/areas/area-kyadondo-county-north.html"
-  },
-  {
-    "text": "Kyadondo County South",
-    "href": "/areas/area-kyadondo-county-south.html"
-  },
-  {
-    "text": "Kyaka County",
-    "href": "/areas/area-kyaka-county.html"
-  },
-  {
-    "text": "Luuka County",
-    "href": "/areas/area-luuka-county.html"
-  },
-  {
-    "text": "Lwemiyaga County",
-    "href": "/areas/area-lwemiyaga-county.html"
-  },
-  {
-    "text": "Madi-Okollo County",
-    "href": "/areas/area-madi-okollo-county.html"
-  },
-  {
-    "text": "Makindye Division East",
-    "href": "/areas/area-makindye-division-east.html"
-  },
-  {
-    "text": "Makindye Division West",
-    "href": "/areas/area-makindye-division-west.html"
-  },
-  {
-    "text": "Matheniko County",
-    "href": "/areas/area-matheniko-county.html"
-  },
-  {
-    "text": "Mawogola County",
-    "href": "/areas/area-mawogola-county.html"
-  },
-  {
-    "text": "Mawokota County North",
-    "href": "/areas/area-mawokota-county-north.html"
-  },
-  {
-    "text": "Mawokota County South",
-    "href": "/areas/area-mawokota-county-south.html"
-  },
-  {
-    "text": "Mityana County North",
-    "href": "/areas/area-mityana-county-north.html"
-  },
-  {
-    "text": "Mityana County South",
-    "href": "/areas/area-mityana-county-south.html"
-  },
-  {
-    "text": "Mukono County North",
-    "href": "/areas/area-mukono-county-north.html"
-  },
-  {
-    "text": "Mwenge County North",
-    "href": "/areas/area-mwenge-county-north.html"
-  },
-  {
-    "text": "Mwenge County South",
-    "href": "/areas/area-mwenge-county-south.html"
-  },
-  {
-    "text": "Nakaseke County North",
-    "href": "/areas/area-nakaseke-county-north.html"
-  },
-  {
-    "text": "Nakaseke County South",
-    "href": "/areas/area-nakaseke-county-south.html"
-  },
-  {
-    "text": "Nakifuma County",
-    "href": "/areas/area-nakifuma-county.html"
-  },
-  {
-    "text": "Ndorwa County East",
-    "href": "/areas/area-ndorwa-county-east.html"
-  },
-  {
-    "text": "Ndorwa County West",
-    "href": "/areas/area-ndorwa-county-west.html"
-  },
-  {
-    "text": "Ntenjeru County North",
-    "href": "/areas/area-ntenjeru-county-north.html"
-  },
-  {
-    "text": "Ntenjeru County South",
-    "href": "/areas/area-ntenjeru-county-south.html"
-  },
-  {
-    "text": "Ntugamo Municipality",
-    "href": "/areas/area-ntugamo-municipality.html"
-  },
-  {
-    "text": "Oyam County North",
-    "href": "/areas/area-oyam-county-north.html"
-  },
-  {
-    "text": "Oyam County South",
-    "href": "/areas/area-oyam-county-south.html"
-  },
-  {
-    "text": "Rubaga Division North",
-    "href": "/areas/area-rubaga-division-north.html"
-  },
-  {
-    "text": "Rubaga Division South",
-    "href": "/areas/area-rubaga-division-south.html"
-  },
-  {
-    "text": "Rubanda County East",
-    "href": "/areas/area-rubanda-county-east.html"
-  },
-  {
-    "text": "Rubanda County West",
-    "href": "/areas/area-rubanda-county-west.html"
-  },
-  {
-    "text": "Ruhaama County",
-    "href": "/areas/area-ruhaama-county.html"
-  },
-  {
-    "text": "Ruhindi County",
-    "href": "/areas/area-ruhindi-county.html"
-  },
-  {
-    "text": "Samia-Bugwe County North",
-    "href": "/areas/area-samia-bugwe-county-north.html"
-  },
-  {
-    "text": "Samia-Bugwe County South",
-    "href": "/areas/area-samia-bugwe-county-south.html"
-  },
-  {
-    "text": "Sheema County North",
-    "href": "/areas/area-sheema-county-north.html"
-  },
-  {
-    "text": "Sheema County South",
-    "href": "/areas/area-sheema-county-south.html"
-  },
-  {
-    "text": "Terego County",
-    "href": "/areas/area-terego-county.html"
-  },
-  {
-    "text": "Tororo County",
-    "href": "/areas/area-tororo-county.html"
-  },
-  {
-    "text": "Upe County",
-    "href": "/areas/area-upe-county.html"
-  },
-  {
-    "text": "West Budama County North",
-    "href": "/areas/area-west-budama-county-north.html"
-  },
-  {
-    "text": "West Budama County South",
-    "href": "/areas/area-west-budama-county-south.html"
-  },
-  {
-    "text": "West Moyo County",
-    "href": "/areas/area-west-moyo-county.html"
-  },
-  {
-    "text": "Zombo District",
-    "href": "/areas/area-zombo-district.html"
-  },
-  {
-    "text": "Central",
     "href": "/areas/ocd-division-country-ug-region-central.html"
   },
   {
-    "text": "Buikwe",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buikwe.html"
   },
   {
-    "text": "Buikwe North",
+    "text": "Buikwe County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buikwe-constituency-buikwe-north.html"
   },
   {
-    "text": "Buikwe South",
+    "text": "Buikwe County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buikwe-constituency-buikwe-south.html"
+  },
+  {
+    "text": "Buikwe County West",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buikwe-constituency-buikwe-west.html"
   },
   {
     "text": "Lugazi Municipality",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buikwe-constituency-lugazi-municipality.html"
   },
   {
-    "text": "Bukomansimbi",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-bukomansimbi.html"
   },
   {
@@ -7672,11 +6572,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-bukomansimbi-constituency-bukomansimbi.html"
   },
   {
+    "text": "Bukomansimbi County",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-bukomansimbi-constituency-bukomansimbi-county.html"
+  },
+  {
     "text": "Bukomansimbi South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-bukomansimbi-constituency-bukomansimbi-south.html"
   },
   {
-    "text": "Butambala",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-butambala.html"
   },
   {
@@ -7684,15 +6588,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-butambala-constituency-butambala-county.html"
   },
   {
-    "text": "Buvuma",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buvuma.html"
   },
   {
-    "text": "Buvuma county",
+    "text": "Buvuma Islands County",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-buvuma-constituency-buvuma-county.html"
   },
   {
-    "text": "Gomba",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-gomba.html"
   },
   {
@@ -7704,11 +6608,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-gomba-constituency-gomba-west.html"
   },
   {
-    "text": "Kalangala",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kalangala.html"
   },
   {
-    "text": "Bujuma County",
+    "text": "Bujumba County",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kalangala-constituency-bujuma-county.html"
   },
   {
@@ -7716,19 +6620,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kalangala-constituency-kyamuswa-county.html"
   },
   {
-    "text": "Kalungu",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kalungu.html"
   },
   {
-    "text": "Kalungu East",
+    "text": "Kalungu County East",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kalungu-constituency-kalungu-east.html"
   },
   {
-    "text": "Kalungu West",
+    "text": "Kalungu County West",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kalungu-constituency-kalungu-west.html"
   },
   {
-    "text": "Kampala",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala.html"
   },
   {
@@ -7736,19 +6640,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-kampala-central.html"
   },
   {
-    "text": "Kawempe North",
+    "text": "Kawempe Division North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-kawempe-north.html"
   },
   {
-    "text": "Kawempe South",
+    "text": "Kawempe Division South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-kawempe-south.html"
   },
   {
-    "text": "Makindye East",
+    "text": "Makindye Division East",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-makindye-east.html"
   },
   {
-    "text": "Makindye West",
+    "text": "Makindye Division West",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-makindye-west.html"
   },
   {
@@ -7756,39 +6660,39 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-nakawa-division.html"
   },
   {
-    "text": "Rubaga North",
+    "text": "Rubaga Division North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-rubaga-north.html"
   },
   {
-    "text": "Rubaga South",
+    "text": "Rubaga Division South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kampala-constituency-rubaga-south.html"
   },
   {
-    "text": "kayunga",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kayunga.html"
   },
   {
-    "text": "Bbale County",
+    "text": "Bbaale County",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kayunga-constituency-bbale-county.html"
   },
   {
-    "text": "Ntenjeru North",
+    "text": "Ntenjeru County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kayunga-constituency-ntenjeru-north.html"
   },
   {
-    "text": "Ntenjeru South",
+    "text": "Ntenjeru County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kayunga-constituency-ntenjeru-south.html"
   },
   {
-    "text": "Kiboga",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kiboga.html"
   },
   {
-    "text": "Kiboga East",
+    "text": "Kiboga County East",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kiboga-constituency-kiboga-east.html"
   },
   {
-    "text": "Kyankwanzi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-kyankwanzi.html"
   },
   {
@@ -7804,23 +6708,23 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-luweero-constituency-bamunanika-county.html"
   },
   {
-    "text": "Katikamu North",
+    "text": "Katikamu County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-luweero-constituency-katikamu-north.html"
   },
   {
-    "text": "Katikamu South",
+    "text": "Katikamu County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-luweero-constituency-katikamu-south.html"
   },
   {
-    "text": "Luwero",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-luwero.html"
   },
   {
-    "text": "Lwengo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-lwengo.html"
   },
   {
-    "text": "Bukoto Mid-west",
+    "text": "Bukoto County Mid-West",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-lwengo-constituency-bukoto-mid-west.html"
   },
   {
@@ -7832,7 +6736,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-lwengo-constituency-bukoto-west.html"
   },
   {
-    "text": "Lyantonde",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-lyantonde.html"
   },
   {
@@ -7840,23 +6744,27 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-lyantonde-constituency-kabula-county.html"
   },
   {
-    "text": "Masaka",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-masaka.html"
   },
   {
-    "text": "Bukoto Central",
+    "text": "Bukoto County Central",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-masaka-constituency-bukoto-central.html"
   },
   {
-    "text": "Bukoto East",
+    "text": "Bukoto County East",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-masaka-constituency-bukoto-east.html"
+  },
+  {
+    "text": "Bukoto County West",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-masaka-constituency-bukoto-west.html"
   },
   {
     "text": "Masaka Municipality",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-masaka-constituency-masaka-municipality.html"
   },
   {
-    "text": "Mityana",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mityana.html"
   },
   {
@@ -7864,31 +6772,35 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mityana-constituency-busunjju.html"
   },
   {
+    "text": "Busujju County",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mityana-constituency-busunjju-county.html"
+  },
+  {
     "text": "Mityana Municipality",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mityana-constituency-mityana-municipality.html"
   },
   {
-    "text": "Mityana North",
+    "text": "Mityana County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mityana-constituency-mityana-north.html"
   },
   {
-    "text": "Mityana South",
+    "text": "Mityana County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mityana-constituency-mityana-south.html"
   },
   {
-    "text": "Mpigi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mpigi.html"
   },
   {
-    "text": "Mawokota North",
+    "text": "Mawokota County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mpigi-constituency-mawokota-north.html"
   },
   {
-    "text": "Mawokota South",
+    "text": "Mawokota County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mpigi-constituency-mawokota-south.html"
   },
   {
-    "text": "Mubende",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mubende.html"
   },
   {
@@ -7904,11 +6816,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mubende-constituency-kasambya-county.html"
   },
   {
-    "text": "Kassanda North",
+    "text": "Kassanda County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mubende-constituency-kassanda-north.html"
   },
   {
-    "text": "Kassanda South",
+    "text": "Kassanda County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mubende-constituency-kassanda-south.html"
   },
   {
@@ -7916,7 +6828,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mubende-constituency-mubende-municipality.html"
   },
   {
-    "text": "Mukono",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mukono.html"
   },
   {
@@ -7932,23 +6844,23 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mukono-constituency-mukono-north.html"
   },
   {
-    "text": "Nakifuma county",
+    "text": "Nakifuma County",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-mukono-constituency-nakifuma-county.html"
   },
   {
-    "text": "Nakaseke",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-nakaseke.html"
   },
   {
-    "text": "Nakaseke North",
+    "text": "Nakaseke County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-nakaseke-constituency-nakaseke-north.html"
   },
   {
-    "text": "Nakaseke South",
+    "text": "Nakaseke County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-nakaseke-constituency-nakaseke-south.html"
   },
   {
-    "text": "Nakasongola",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-nakasongola.html"
   },
   {
@@ -7960,7 +6872,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-nakasongola-constituency-nakasongola-county.html"
   },
   {
-    "text": "Rakai",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-rakai.html"
   },
   {
@@ -7980,12 +6892,16 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-rakai-constituency-kyotera-county.html"
   },
   {
-    "text": "Sembabule",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-sembabule.html"
   },
   {
     "text": "Lwemiyaga County",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-sembabule-constituency-lwemiyaga-county.html"
+  },
+  {
+    "text": "Mawogola County",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-sembabule-constituency-mawogola-county.html"
   },
   {
     "text": "Mawogola North",
@@ -7996,19 +6912,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-sembabule-constituency-mawogola-south.html"
   },
   {
-    "text": "Wakiso",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso.html"
   },
   {
-    "text": "Busiro East",
+    "text": "Busiiro County East",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-busiro-east.html"
   },
   {
-    "text": "Busiro North",
+    "text": "Busiiro County North",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-busiro-north.html"
   },
   {
-    "text": "Busiro South",
+    "text": "Busiiro County South",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-busiro-south.html"
   },
   {
@@ -8020,6 +6936,14 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-kira-municipality.html"
   },
   {
+    "text": "Kyadondo County North",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-kyadondo-north.html"
+  },
+  {
+    "text": "Kyadondo County South",
+    "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-kyadondo-south.html"
+  },
+  {
     "text": "Makindye-Ssabagabo",
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-makindye-ssabagabo.html"
   },
@@ -8028,11 +6952,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-central-subregion-buganda-district-wakiso-constituency-nansana-municipality.html"
   },
   {
-    "text": "Eastern",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-eastern.html"
   },
   {
-    "text": "Bududa",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-bududa.html"
   },
   {
@@ -8044,7 +6968,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-bududa-constituency-manjiya-county.html"
   },
   {
-    "text": "Bulambuli",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-bulambuli.html"
   },
   {
@@ -8056,27 +6980,27 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-bulambuli-constituency-elgon-county.html"
   },
   {
-    "text": "Manafwa",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-manafwa.html"
   },
   {
-    "text": "Bubulo East",
+    "text": "Bubulo County East",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-manafwa-constituency-bubulo-east.html"
   },
   {
-    "text": "Bubulo west",
+    "text": "Bubulo County West",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-manafwa-constituency-bubulo-west.html"
   },
   {
-    "text": "Mbale",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-mbale.html"
   },
   {
-    "text": "Bungokho North",
+    "text": "Bungokho County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-mbale-constituency-bungokho-north.html"
   },
   {
-    "text": "Bungokho South",
+    "text": "Bungokho County South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-mbale-constituency-bungokho-south.html"
   },
   {
@@ -8084,19 +7008,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-mbale-constituency-mbale-municipality.html"
   },
   {
-    "text": "Sironko",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-sironko.html"
   },
   {
-    "text": "BudadirI East",
+    "text": "Budadiri County East",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-sironko-constituency-budadiri-east.html"
   },
   {
-    "text": "Budadiri West",
+    "text": "Budadiri County West",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bugisu-district-sironko-constituency-budadiri-west.html"
   },
   {
-    "text": "Budaka",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-budaka.html"
   },
   {
@@ -8104,11 +7028,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-budaka-constituency-budaka-county.html"
   },
   {
-    "text": "Iki Iki County",
+    "text": "Iki-Iki County",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-budaka-constituency-iki-iki-county.html"
   },
   {
-    "text": "Busia",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-busia.html"
   },
   {
@@ -8116,27 +7040,27 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-busia-constituency-busia-municipality.html"
   },
   {
-    "text": "Samia Bugwe North",
+    "text": "Samia-Bugwe County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-busia-constituency-samia-bugwe-north.html"
   },
   {
-    "text": "Samia Bugwe South",
+    "text": "Samia-Bugwe County South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-busia-constituency-samia-bugwe-south.html"
   },
   {
-    "text": "Butaleja",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-butaleja.html"
   },
   {
-    "text": "Bunyole East",
+    "text": "Bunyole County East",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-butaleja-constituency-bunyole-east.html"
   },
   {
-    "text": "Bunyole West",
+    "text": "Bunyole County West",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-butaleja-constituency-bunyole-west.html"
   },
   {
-    "text": "Kibuku",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-kibuku.html"
   },
   {
@@ -8144,11 +7068,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-kibuku-constituency-kabweri-county.html"
   },
   {
-    "text": "Kibuku county",
+    "text": "Kibuku County",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-kibuku-constituency-kibuku-county.html"
   },
   {
-    "text": "Pallisa",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-pallisa.html"
   },
   {
@@ -8168,8 +7092,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-pallisa-constituency-pallisa-county.html"
   },
   {
-    "text": "Tororo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-tororo.html"
+  },
+  {
+    "text": "Tororo County",
+    "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-tororo-constituency-tororo-county.html"
   },
   {
     "text": "Tororo County North",
@@ -8184,39 +7112,43 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-tororo-constituency-tororo-south.html"
   },
   {
-    "text": "West Budama North",
+    "text": "West Budama County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-tororo-constituency-west-budama-north.html"
   },
   {
-    "text": "West Budama South",
+    "text": "West Budama County South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-bukedi-district-tororo-constituency-west-budama-south.html"
   },
   {
-    "text": "Bugiri",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri.html"
   },
   {
-    "text": "Bukooli Central",
+    "text": "Bukooli County Central",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-central.html"
   },
   {
-    "text": "Bukooli North",
+    "text": "Bukooli County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-north.html"
   },
   {
-    "text": "Buyende",
+    "text": "Bukooli County South",
+    "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-south.html"
+  },
+  {
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-buyende.html"
   },
   {
-    "text": "Budiope East",
+    "text": "Budiope County East",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-buyende-constituency-budiope-east.html"
   },
   {
-    "text": "Budiope West",
+    "text": "Budiope County West",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-buyende-constituency-budiope-west.html"
   },
   {
-    "text": "Iganga",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-iganga.html"
   },
   {
@@ -8228,15 +7160,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-iganga-constituency-iganga-municipality.html"
   },
   {
-    "text": "Kigulu North",
+    "text": "Kigulu County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-iganga-constituency-kigulu-north.html"
   },
   {
-    "text": "Kigulu South",
+    "text": "Kigulu County South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-iganga-constituency-kigulu-south.html"
   },
   {
-    "text": "JINJA",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-jinja.html"
   },
   {
@@ -8248,7 +7180,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-jinja-constituency-jinja-municipality-east.html"
   },
   {
-    "text": "Jinja West Municipality",
+    "text": "Jinja Municipality West",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-jinja-constituency-jinja-west-municipality.html"
   },
   {
@@ -8256,7 +7188,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-jinja-constituency-kagoma-county.html"
   },
   {
-    "text": "Kaliro",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kaliro.html"
   },
   {
@@ -8268,19 +7200,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kaliro-constituency-bulamogi-north-west.html"
   },
   {
-    "text": "Kamuli",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kamuli.html"
   },
   {
-    "text": "Bugabula North",
+    "text": "Bugabula County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kamuli-constituency-bugabula-north.html"
   },
   {
-    "text": "Bugabula South",
+    "text": "Bugabula County South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kamuli-constituency-bugabula-south.html"
   },
   {
-    "text": "Buzaya County",
+    "text": "Buzaaya County",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kamuli-constituency-buzaya-county.html"
   },
   {
@@ -8288,8 +7220,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-kamuli-constituency-kamuli-municipality.html"
   },
   {
-    "text": "Luuka",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-luuka.html"
+  },
+  {
+    "text": "Luuka County",
+    "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-luuka-constituency-luuka-county.html"
   },
   {
     "text": "Luuka county North",
@@ -8300,27 +7236,27 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-luuka-constituency-luuka-county-south.html"
   },
   {
-    "text": "Mayuge",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-mayuge.html"
   },
   {
-    "text": "Bunya East",
+    "text": "Bunya County East",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-mayuge-constituency-bunya-east.html"
   },
   {
-    "text": "Bunya South",
+    "text": "Bunya County South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-mayuge-constituency-bunya-south.html"
   },
   {
-    "text": "Bunya West",
+    "text": "Bunya County West",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-mayuge-constituency-bunya-west.html"
   },
   {
-    "text": "Namayingo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namayingo.html"
   },
   {
-    "text": "Bukooli Island",
+    "text": "Bukooli Islands County",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namayingo-constituency-bukooli-island.html"
   },
   {
@@ -8328,7 +7264,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namayingo-constituency-bukooli-south.html"
   },
   {
-    "text": "Namutumba",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namutumba.html"
   },
   {
@@ -8340,12 +7276,16 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namutumba-constituency-busiki-county.html"
   },
   {
-    "text": "Abim",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-karamoja-district-abim.html"
   },
   {
-    "text": "Amudat",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-karamoja-district-amudat.html"
+  },
+  {
+    "text": "Upe County",
+    "href": "/areas/ocd-division-country-ug-region-eastern-subregion-karamoja-district-amudat-constituency-upe-county.html"
   },
   {
     "text": "Kongasis County",
@@ -8364,19 +7304,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-sebbei-district-kween-constituency-kween-county.html"
   },
   {
-    "text": "Bukwo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-sebei-district-bukwo.html"
   },
   {
-    "text": "Kapchorwa",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-sebei-district-kapchorwa.html"
   },
   {
-    "text": "Kween",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-sebei-district-kween.html"
   },
   {
-    "text": "Amudat",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-amudat.html"
   },
   {
@@ -8384,7 +7324,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-amudat-constituency-upe-county.html"
   },
   {
-    "text": "Amuria",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-amuria.html"
   },
   {
@@ -8400,7 +7340,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-amuria-constituency-orungo-county.html"
   },
   {
-    "text": "Bukedea",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-bukedea.html"
   },
   {
@@ -8412,7 +7352,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-bukedea-constituency-kachumbala-county.html"
   },
   {
-    "text": "Kaberamaido",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-kaberamaido.html"
   },
   {
@@ -8420,11 +7360,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-kaberamaido-constituency-kaberamaido-county.html"
   },
   {
-    "text": "Kalaki county",
+    "text": "Kalaki County",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-kaberamaido-constituency-kalaki-county.html"
   },
   {
-    "text": "Katakwi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-katakwi.html"
   },
   {
@@ -8436,7 +7376,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-katakwi-constituency-usuk-county.html"
   },
   {
-    "text": "Kumi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-kumi.html"
   },
   {
@@ -8452,7 +7392,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-kumi-constituency-kumi-municipality.html"
   },
   {
-    "text": "Ngora",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-ngora.html"
   },
   {
@@ -8460,7 +7400,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-ngora-constituency-ngora-county.html"
   },
   {
-    "text": "Serere",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-serere.html"
   },
   {
@@ -8472,7 +7412,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-serere-constituency-serere-county.html"
   },
   {
-    "text": "Soroti",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-soroti.html"
   },
   {
@@ -8488,11 +7428,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-teso-district-soroti-constituency-soroti-municipality.html"
   },
   {
-    "text": "National",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-national.html"
   },
   {
-    "text": "Northern",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-northern.html"
   },
   {
@@ -8504,8 +7444,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-agago-constituency-agago-north.html"
   },
   {
-    "text": "Amuru",
+    "text": "Amuru District",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-amuru.html"
+  },
+  {
+    "text": "Kilak County",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-amuru-constituency-kilak-county.html"
   },
   {
     "text": "Kilak North",
@@ -8516,7 +7460,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-amuru-constituency-kilak-south.html"
   },
   {
-    "text": "Gulu",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-gulu.html"
   },
   {
@@ -8536,11 +7480,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-gulu-constituency-tochi-county.html"
   },
   {
-    "text": "Kitgum",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-kitgum.html"
   },
   {
-    "text": "Chua West County",
+    "text": "West Moyo County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-kitgum-constituency-chua-west-county.html"
   },
   {
@@ -8552,7 +7496,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-kitgum-constituency-kitgum-municipality.html"
   },
   {
-    "text": "Lamwo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-lamwo.html"
   },
   {
@@ -8560,7 +7504,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-lamwo-constituency-lamwo-county.html"
   },
   {
-    "text": "Nwoya",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-nwoya.html"
   },
   {
@@ -8568,7 +7512,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-nwoya-constituency-nwoya-county.html"
   },
   {
-    "text": "Pader",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-pader.html"
   },
   {
@@ -8576,11 +7520,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-pader-constituency-aruu-county.html"
   },
   {
-    "text": "Aruu County North",
+    "text": "Oyam County North",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-acholi-district-pader-constituency-aruu-county-north.html"
   },
   {
-    "text": "Abim",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-abim.html"
   },
   {
@@ -8588,15 +7532,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-abim-constituency-labwor-county.html"
   },
   {
-    "text": "Kaabong",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kaabong.html"
   },
   {
-    "text": "Dodoth East",
+    "text": "Dodoth County East",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kaabong-constituency-dodoth-east.html"
   },
   {
-    "text": "Dodoth West",
+    "text": "Dodoth County West",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kaabong-constituency-dodoth-west.html"
   },
   {
@@ -8604,7 +7548,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kabong-constituency-ik-county.html"
   },
   {
-    "text": "Kotido",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kotido.html"
   },
   {
@@ -8612,12 +7556,16 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-kotido-constituency-jie-county.html"
   },
   {
-    "text": "Moroto",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-moroto.html"
   },
   {
     "text": "Matheniko",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-moroto-constituency-matheniko.html"
+  },
+  {
+    "text": "Matheniko County",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-moroto-constituency-matheniko-county.html"
   },
   {
     "text": "Moroto Municipality",
@@ -8628,7 +7576,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-moroto-constituency-tepeth-county.html"
   },
   {
-    "text": "Nakapiripirit",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-nakapiripirit.html"
   },
   {
@@ -8640,7 +7588,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-nakapiripirit-constituency-pian-county.html"
   },
   {
-    "text": "Napak",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-napak.html"
   },
   {
@@ -8648,11 +7596,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-karamoja-district-napak-constituency-bokora-county.html"
   },
   {
-    "text": "Agago",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-agago.html"
   },
   {
-    "text": "Alebtong",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-alebtong.html"
   },
   {
@@ -8664,7 +7612,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-alebtong-constituency-moroto-county.html"
   },
   {
-    "text": "Amolatar",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-amolatar.html"
   },
   {
@@ -8672,7 +7620,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-amolatar-constituency-kioga-county.html"
   },
   {
-    "text": "Apac",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-apac.html"
   },
   {
@@ -8684,7 +7632,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-apac-constituency-maruzi-county.html"
   },
   {
-    "text": "Dokolo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-dokolo.html"
   },
   {
@@ -8696,8 +7644,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-dokolo-constituency-dokolo-south.html"
   },
   {
-    "text": "Kole",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-kole.html"
+  },
+  {
+    "text": "Kole County",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-kole-constituency-kole-county.html"
   },
   {
     "text": "Kole North",
@@ -8708,7 +7660,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-kole-constituency-kole-south.html"
   },
   {
-    "text": "Lira",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-lira.html"
   },
   {
@@ -8716,7 +7668,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-lira-constituency-erute-north.html"
   },
   {
-    "text": "Erute South",
+    "text": "Erute County South",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-lira-constituency-erute-south.html"
   },
   {
@@ -8724,7 +7676,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-lira-constituency-lira-municipality.html"
   },
   {
-    "text": "Otuke",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-otuke.html"
   },
   {
@@ -8732,7 +7684,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-otuke-constituency-otuke-county.html"
   },
   {
-    "text": "Oyam",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-oyam.html"
   },
   {
@@ -8740,11 +7692,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-oyam-constituency-oyam-north.html"
   },
   {
-    "text": "Oyam South",
+    "text": "Oyam County South",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-lango-district-oyam-constituency-oyam-south.html"
   },
   {
-    "text": "Adjumani",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-adjumani.html"
   },
   {
@@ -8756,7 +7708,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-adjumani-constituency-adjumani-west.html"
   },
   {
-    "text": "Arua",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua.html"
   },
   {
@@ -8770,6 +7722,14 @@ callback([
   {
     "text": "Lower Madi",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua-constituency-lower-madi.html"
+  },
+  {
+    "text": "Madi-Okollo County",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua-constituency-madi-okollo-county.html"
+  },
+  {
+    "text": "Terego County",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua-constituency-terego-county.html"
   },
   {
     "text": "Terego East",
@@ -8788,7 +7748,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-arua-constituency-vurra-county.html"
   },
   {
-    "text": "Koboko",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-koboko.html"
   },
   {
@@ -8804,7 +7764,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-koboko-constituency-koboko-north.html"
   },
   {
-    "text": "Maracha",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-maracha.html"
   },
   {
@@ -8816,8 +7776,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-maracha-constituency-maracha-east.html"
   },
   {
-    "text": "Moyo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-moyo.html"
+  },
+  {
+    "text": "East Moyo County",
+    "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-moyo-constituency-east-moyo.html"
   },
   {
     "text": "Obongi County",
@@ -8828,7 +7792,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-moyo-constituency-west-moyo.html"
   },
   {
-    "text": "Nebbi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-nebbi.html"
   },
   {
@@ -8840,11 +7804,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-nebbi-constituency-padyere-county.html"
   },
   {
-    "text": "Yumbe",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-yumbe.html"
   },
   {
-    "text": "Aringa county",
+    "text": "Aringa County",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-yumbe-constituency-aringa-county.html"
   },
   {
@@ -8856,7 +7820,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-yumbe-constituency-aringa-south.html"
   },
   {
-    "text": "Zombo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-zombo.html"
   },
   {
@@ -8868,11 +7832,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-northern-subregion-west-nile-district-zombo-constituency-ora-county.html"
   },
   {
-    "text": "Western",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-western.html"
   },
   {
-    "text": "Buhweju",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-buhweju.html"
   },
   {
@@ -8880,7 +7844,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-buhweju-constituency-buhweju-county.html"
   },
   {
-    "text": "Bushenyi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-bushenyi.html"
   },
   {
@@ -8888,15 +7852,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-bushenyi-constituency-bushenyi-ishaka-municipality.html"
   },
   {
-    "text": "Igara East",
+    "text": "Igara County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-bushenyi-constituency-igara-east.html"
   },
   {
-    "text": "Igara West",
+    "text": "Igara County West",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-bushenyi-constituency-igara-west.html"
   },
   {
-    "text": "Ibanda",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ibanda.html"
   },
   {
@@ -8908,7 +7872,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ibanda-constituency-ibanda-south.html"
   },
   {
-    "text": "Isingiro",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-isingiro.html"
   },
   {
@@ -8916,15 +7880,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-isingiro-constituency-bukanga-county.html"
   },
   {
-    "text": "Isingiro North",
+    "text": "Isingiro County North",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-isingiro-constituency-isingiro-north.html"
   },
   {
-    "text": "Isingiro south",
+    "text": "Isingiro County South",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-isingiro-constituency-isingiro-south.html"
   },
   {
-    "text": "Kiruhura",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-kiruhura.html"
   },
   {
@@ -8940,8 +7904,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-kiruhura-constituency-nyabushozi-county.html"
   },
   {
-    "text": "Mbarara",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-mbarara.html"
+  },
+  {
+    "text": "Kashari County",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-mbarara-constituency-kashari-county.html"
   },
   {
     "text": "Kashari North",
@@ -8960,11 +7928,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-mbarara-constituency-rwampara-county.html"
   },
   {
-    "text": "Mitooma",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-mitooma.html"
   },
   {
-    "text": "Ruhinda County",
+    "text": "Ruhindi County",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-mitooma-constituency-ruhinda-county.html"
   },
   {
@@ -8972,7 +7940,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-mitooma-constituency-ruhinda-north.html"
   },
   {
-    "text": "Ntungamo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ntungamo.html"
   },
   {
@@ -8980,11 +7948,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ntungamo-constituency-kajara-county.html"
   },
   {
-    "text": "Ntungamo Municipality",
+    "text": "Ntugamo Municipality",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ntungamo-constituency-ntungamo-municipality.html"
   },
   {
-    "text": "Ruhama County",
+    "text": "Ruhaama County",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ntungamo-constituency-ruhama-county.html"
   },
   {
@@ -8992,7 +7960,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-ntungamo-constituency-rushenyi-county.html"
   },
   {
-    "text": "Rubirizi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-rubirizi.html"
   },
   {
@@ -9000,31 +7968,35 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-rubirizi-constituency-bunyaruguru.html"
   },
   {
+    "text": "Bunyaruguru County",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-rubirizi-constituency-bunyaruguru-county.html"
+  },
+  {
     "text": "Katerera County",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-rubirizi-constituency-katerera-county.html"
   },
   {
-    "text": "Sheema",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-sheema.html"
   },
   {
-    "text": "Sheema North",
+    "text": "Sheema County North",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-sheema-constituency-sheema-north.html"
   },
   {
-    "text": "Sheema South",
+    "text": "Sheema County South",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-ankole-district-sheema-constituency-sheema-south.html"
   },
   {
-    "text": "Wakiso",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-buganda-district-wakiso.html"
   },
   {
-    "text": "Kyadondo East",
+    "text": "Kyadondo County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-buganda-district-wakiso-constituency-kyadondo-east.html"
   },
   {
-    "text": "Buliisa",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-buliisa.html"
   },
   {
@@ -9032,12 +8004,16 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-buliisa-constituency-buliisa-county.html"
   },
   {
-    "text": "Hoima",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-hoima.html"
   },
   {
     "text": "Bugahya",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-hoima-constituency-bugahya.html"
+  },
+  {
+    "text": "Bugahya County",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-hoima-constituency-bugahya-county.html"
   },
   {
     "text": "Buhaguzi County",
@@ -9052,23 +8028,23 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-hoima-constituency-kigorobya.html"
   },
   {
-    "text": "Kibaale",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale.html"
   },
   {
-    "text": "Bugangaizi East",
+    "text": "Bugangaizi County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale-constituency-bugangaizi-east.html"
   },
   {
-    "text": "Bugangaizi West",
+    "text": "Bugangaizi County West",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale-constituency-bugangaizi-west.html"
   },
   {
-    "text": "Buyaga East",
+    "text": "Buyaga County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale-constituency-buyaga-east.html"
   },
   {
-    "text": "Buyaga West",
+    "text": "Buyaga County West",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale-constituency-buyaga-west.html"
   },
   {
@@ -9076,12 +8052,20 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale-constituency-buyanja.html"
   },
   {
-    "text": "Kiryadongo",
+    "text": "Buyanja County",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kibaale-constituency-buyanja-county.html"
+  },
+  {
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kiryadongo.html"
   },
   {
-    "text": "Kiryandongo",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kiryandongo.html"
+  },
+  {
+    "text": "Ibanda County South",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kiryandongo-constituency-kibanda-county.html"
   },
   {
     "text": "Kibanda North",
@@ -9092,7 +8076,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-kiryandongo-constituency-kibanda-south.html"
   },
   {
-    "text": "Masindi",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-masindi.html"
   },
   {
@@ -9100,7 +8084,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-masindi-constituency-bujenje-county.html"
   },
   {
-    "text": "Buruli County",
+    "text": "Buruuli County",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-masindi-constituency-buruli-county.html"
   },
   {
@@ -9108,7 +8092,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-bunyoro-district-masindi-constituency-masindi-municipality.html"
   },
   {
-    "text": "Kabale",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale.html"
   },
   {
@@ -9116,19 +8100,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale-constituency-kabale-municipality.html"
   },
   {
-    "text": "Ndorwa East",
+    "text": "Ndorwa County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale-constituency-ndorwa-east.html"
   },
   {
-    "text": "Ndorwa West",
+    "text": "Ndorwa County West",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale-constituency-ndorwa-west.html"
   },
   {
-    "text": "Rubanda East",
+    "text": "Rubanda County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale-constituency-rubanda-east.html"
   },
   {
-    "text": "Rubanda West",
+    "text": "Rubanda County West",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale-constituency-rubanda-west.html"
   },
   {
@@ -9136,31 +8120,31 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kabale-constituency-rukiga-county.html"
   },
   {
-    "text": "Kanungu",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kanungu.html"
   },
   {
-    "text": "Kinkizi East",
+    "text": "Kinkiizi County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kanungu-constituency-kinkizi-east.html"
   },
   {
-    "text": "Kinkizi West",
+    "text": "Kinkiizi County West",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kanungu-constituency-kinkizi-west.html"
   },
   {
-    "text": "Kisoro",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kisoro.html"
   },
   {
-    "text": "Bufumbira East",
+    "text": "Bufumbira County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kisoro-constituency-bufumbira-east.html"
   },
   {
-    "text": "Bufumbira North",
+    "text": "Bufumbira County North",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kisoro-constituency-bufumbira-north.html"
   },
   {
-    "text": "Bufumbira South",
+    "text": "Bufumbira County South",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kisoro-constituency-bufumbira-south.html"
   },
   {
@@ -9168,7 +8152,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-kisoro-constituency-kisoro-municipality.html"
   },
   {
-    "text": "Rukungiri",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-rukungiri.html"
   },
   {
@@ -9184,11 +8168,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-kigezi-district-rukungiri-constituency-rukungiri-municipality.html"
   },
   {
-    "text": "Bundibugyo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-bundibugyo.html"
   },
   {
-    "text": "Bughendera County",
+    "text": "Bughendera",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-bundibugyo-constituency-bughendera-county.html"
   },
   {
@@ -9196,7 +8180,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-bundibugyo-constituency-bwamba-county.html"
   },
   {
-    "text": "Kabarole",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kabarole.html"
   },
   {
@@ -9204,11 +8188,15 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kabarole-constituency-bunyangabu.html"
   },
   {
-    "text": "Fort Portal Municipality",
+    "text": "Bunyangabu County",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kabarole-constituency-bunyangabu-county.html"
+  },
+  {
+    "text": "Fort Portal Municipaity",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kabarole-constituency-fort-portal-municipality.html"
   },
   {
-    "text": "Kamwenge",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kamwenge.html"
   },
   {
@@ -9224,11 +8212,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kamwenge-constituency-kitagwenda-county.html"
   },
   {
-    "text": "Kasese",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kasese.html"
   },
   {
-    "text": "Bukonjo county",
+    "text": "Bukonjo County East",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kasese-constituency-bukonjo-county.html"
   },
   {
@@ -9240,11 +8228,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kasese-constituency-bukonzo-west.html"
   },
   {
-    "text": "Busongora North",
+    "text": "Busongora County North",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kasese-constituency-busongora-north.html"
   },
   {
-    "text": "Busongora South",
+    "text": "Busongora County South",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kasese-constituency-busongora-south.html"
   },
   {
@@ -9252,8 +8240,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kasese-constituency-kasese-municipality.html"
   },
   {
-    "text": "Kyegegwa",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyegegwa.html"
+  },
+  {
+    "text": "Kyaka County",
+    "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyegegwa-constituency-kyaka-county.html"
   },
   {
     "text": "Kyaka North",
@@ -9264,7 +8256,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyegegwa-constituency-kyaka-south.html"
   },
   {
-    "text": "Kyenjojo",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyenjojo.html"
   },
   {
@@ -9272,19 +8264,19 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyenjojo-constituency-mwenge-central-county.html"
   },
   {
-    "text": "Mwenge North",
+    "text": "Mwenge County North",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyenjojo-constituency-mwenge-north.html"
   },
   {
-    "text": "Mwenge South",
+    "text": "Mwenge County South",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-kyenjojo-constituency-mwenge-south.html"
   },
   {
-    "text": "Ntoroko",
+    "text": "unknown",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-tooro-rwenzori-district-ntoroko.html"
   },
   {
-    "text": "Kabarole",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-toro-rwenzori-district-kabarole.html"
   },
   {
@@ -9292,7 +8284,7 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-western-subregion-toro-rwenzori-district-kabarole-constituency-burahya-county.html"
   },
   {
-    "text": "Ntoroko",
+    "text": "",
     "href": "/areas/ocd-division-country-ug-region-western-subregion-toro-rwenzori-district-ntoroko.html"
   },
   {
