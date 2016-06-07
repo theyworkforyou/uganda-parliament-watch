@@ -18,7 +18,7 @@ layout: default
     {% if membership.party %}
     Party: {{ membership.party.name }}.
     {% endif %}
-    Term: {{ membership.legislative_period.name }}.
+    Tenure: {{ membership.legislative_period.name }}.
 
     {% if membership.start_date %}
     Start date: {{ membership.start_date | date_to_long_string }}

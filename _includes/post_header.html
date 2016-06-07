@@ -28,8 +28,8 @@
   <h2>{{ current_term.name }}
     {% if current_term.start_date or current_term.end_date %}
     <small>
-      {% if current_term.start_date %}Start date: {{ current_term.start_date | date_to_long_string }}{% endif %}
-      {% if current_term.end_date %} End date: {{ current_term.end_date | date_to_long_string }}{% endif %}
+      {% if current_term.start_date %}Sworn in : {{ current_term.start_date | date_to_long_string }}{% endif %} <strong>|</strong>
+      {% if current_term.end_date %} End of tenure: {{ current_term.end_date | date_to_long_string }}{% endif %}
     </small>
     {% endif %}
   </h2>
