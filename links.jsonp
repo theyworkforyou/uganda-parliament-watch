@@ -9,27 +9,27 @@ callback([
   },
   {
     "text": null,
-    "href": "/2016/10/21/woman-representative.html"
+    "href": "/2016/12/13/woman-representative.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/ex-officio.html"
+    "href": "/2016/12/13/ex-officio.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/youth.html"
+    "href": "/2016/12/13/youth.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/updf.html"
+    "href": "/2016/12/13/updf.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/workers-representative.html"
+    "href": "/2016/12/13/workers-representative.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/pwd.html"
+    "href": "/2016/12/13/pwd.html"
   },
   {
     "text": "Abas Agaba",
@@ -376,7 +376,7 @@ callback([
     "href": "/mp/97ea981b-f358-4ed8-8690-1c3ebbafe00a/"
   },
   {
-    "text": "Charles Illukori",
+    "text": "Charles Ilukor",
     "href": "/mp/2ac9dd25-ed32-454a-bddf-85e60314b9fc/"
   },
   {
@@ -3233,27 +3233,27 @@ callback([
   },
   {
     "text": null,
-    "href": "/2016/10/21/woman-representative.html"
+    "href": "/2016/12/13/woman-representative.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/ex-officio.html"
+    "href": "/2016/12/13/ex-officio.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/youth.html"
+    "href": "/2016/12/13/youth.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/updf.html"
+    "href": "/2016/12/13/updf.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/workers-representative.html"
+    "href": "/2016/12/13/workers-representative.html"
   },
   {
     "text": null,
-    "href": "/2016/10/21/pwd.html"
+    "href": "/2016/12/13/pwd.html"
   },
   {
     "text": "Conservative Party",
@@ -7160,12 +7160,12 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-central.html"
   },
   {
-    "text": "Bukooli Islands County",
-    "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-island.html"
-  },
-  {
     "text": "Bukooli County North",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-north.html"
+  },
+  {
+    "text": "Bukooli County South",
+    "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-bugiri-constituency-bukooli-south.html"
   },
   {
     "text": "",
@@ -7288,11 +7288,11 @@ callback([
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namayingo.html"
   },
   {
-    "text": "Bukooli Island",
+    "text": "Bukooli Islands County",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namayingo-constituency-bukooli-island.html"
   },
   {
-    "text": "Bukooli County South",
+    "text": "Bukooli South",
     "href": "/areas/ocd-division-country-ug-region-eastern-subregion-busoga-district-namayingo-constituency-bukooli-south.html"
   },
   {
